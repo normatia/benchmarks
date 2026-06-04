@@ -1,0 +1,878 @@
+{
+  "titulo_examen": "Acceso a la categoría de Arquitecto Técnico - Ayuntamiento de Madrid (19 Julio 2025)",
+  "preguntas": [
+    {
+      "id": 11,
+      "enunciado": "A los efectos regulados en el Texto Refundido de la Ley del Suelo y Rehabilitación Urbana se consideran actuaciones de transformación urbanística:",
+      "opciones": {
+        "a": "Las que tienen por objeto reformar o renovar la urbanización y las actuaciones edificatorias, incluso cuando estas requieran obras complementarias de urbanización.",
+        "b": "Las de nueva urbanización, y las que tienen por objeto reformar o renovar la urbanización",
+        "c": "Las de urbanizacion y de dotación."
+      }
+    },
+    {
+      "id": 12,
+      "enunciado": "Según el Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, las condiciones mínimas que deberán reunir los edificios de cualquier tipo para permitir la accesibilidad de las personas con discapacidad, previstas en las normas técnicas sobre edificación deberán recogerse en:",
+      "opciones": {
+        "a": "En la fase de redacción de los proyectos básicos, de ejecución y parciales.",
+        "b": "En la fase de redacción de los proyectos básicos y de ejecución.",
+        "c": "En la fase de redacción de los proyectos de ejecución."
+      }
+    },
+    {
+      "id": 13,
+      "enunciado": "Según el artículo 7 del Real Decreto 1492/2011, de 24 de octubre, por el que se aprueba el Reglamento de valoraciones de la Ley de Suelo, cuando el suelo estuviera en situación de rural, los terrenos se valorarán mediante:",
+      "opciones": {
+        "a": "El método de comparación.",
+        "b": "El método residual estático.",
+        "c": "La capitalización de la renta anual real o potencial de la explotación."
+      }
+    },
+    {
+      "id": 14,
+      "enunciado": "Según el artículo 38 de la Orden ECO/805/2003, de 27 de marzo, sobre normas de valoración de bienes inmuebles y de determinados derechos para ciertas finalidades financieras, el cálculo del valor residual por el procedimiento dinámico se realizará sumando al tipo libre de riesgo:",
+      "opciones": {
+        "a": "El tipo de actualización.",
+        "b": "El valor de reversión.",
+        "c": "La prima de riesgo."
+      }
+    },
+    {
+      "id": 15,
+      "enunciado": "Las actuaciones de urbanización definidas en el Texto Refundido de la Ley del Suelo y Rehabilitación Urbana comportan, entre otros, los siguientes deberes legales:",
+      "opciones": {
+        "a": "Entregar a la Administración competente, y con destino a patrimonio público de suelo, el suelo libre de cargas de urbanización correspondiente al porcentaje de la edificabilidad media ponderada de la actuación, o del ámbito superior de referencia en que ésta se incluya, que fije la legislación reguladora de la ordenación territorial y urbanística.",
+        "b": "Entregar a la Administración competente, y con destino a patrimonio público de suelo, el suelo correspondiente al porcentaje de la edificabilidad media ponderada de la actuación, o del ámbito superior de referencia en que ésta se incluya, que fije la legislación reguladora de la ordenación territorial y urbanística, debiendo aquella participar en las cargas de urbanización.",
+        "c": "Entregar a la Administración competente, y con destino a patrimonio público de suelo, el suelo libre de cargas de urbanización correspondiente al porcentaje de la participación con sus fincas aportadas de la actuación, o del ámbito superior de referencia en que ésta se incluya, que fije la legislación reguladora de la ordenación territorial y urbanística"
+      }
+    },
+    {
+      "id": 16,
+      "enunciado": "Según dispone el artículo 10 de la Ley del Suelo de la Comunidad de Madrid, los deberes urbanísticos sobre terrenos, construcciones y edificaciones tienen carácter real y, por tanto,",
+      "opciones": {
+        "a": "Las transmisiones realizadas por actos inter vivos o mortis causa no modificarán la situación jurídica del titular, quedando el transmitente obligado tanto en sus derechos y deberes urbanísticos, como en los compromisos que éste hubiera acordado con la Administración y hayan sido objeto de inscripción registral.",
+        "b": "Las transmisiones realizadas por actos inter vivos o mortis causa no modificarán la situación jurídica del titular, quedando el adquirente subrogado en el lugar y puesto del transmitente, tanto en sus derechos y deberes urbanísticos, como en los compromisos que éste hubiera acordado con la Administración y hayan sido objeto de inscripción registral.",
+        "c": "Las transmisiones realizadas por actos inter vivos o mortis causa modificarán la situación jurídica del titular, obligados adquirente y transmitente en el reparto igualitario, tanto de sus derechos y deberes urbanísticos, como de los compromisos que éste hubiera acordado con la Administración y hayan sido objeto de inscripción registral."
+      }
+    },
+    {
+      "id": 17,
+      "enunciado": "El contenido urbanístico del derecho de propiedad en suelo urbano consolidado, según la Ley del Suelo de la Comunidad de Madrid, comprenderá, además de los generales, entre otros los siguientes derechos y deberes vinculados a la ejecución de obras de urbanización:",
+      "opciones": {
+        "a": "Realizar las obras de edificación porque en suelo urbano consolidado los solares nunca precisan de obras accesorias de urbanización.",
+        "b": "Realizar las obras ordinarias de carácter accesorio que resten para completar la urbanización de forma que la parcela adquiera la condición de solar siempre con carácter previo a la edificación.",
+        "c": "Realizar las obras ordinarias de carácter accesorio que resten para completar la urbanización de forma que la parcela adquiera la condición de solar con carácter previo o de forma simultánea a la edificación."
+      }
+    },
+    {
+      "id": 18,
+      "enunciado": "Los Planes Generales, según dispone la Ley del Suelo de la Comunidad de Madrid, formalizarán su contenido en los documentos necesarios para alcanzar la máxima operatividad de sus determinaciones y en función de la complejidad urbanística del territorio y, entre los documentos necesarios se contarán, al menos, los siguientes:",
+      "opciones": {
+        "a": "memoria, planos, estudio de viabilidad económica, normas urbanísticas y, catálogo de bienes y espacios protegidos.",
+        "b": "memoria, planos, estudio de viabilidad, informe de análisis ambiental, normas urbanísticas y, catálogo de bienes y espacios protegidos.",
+        "c": "memoria, estudio de viabilidad, informe de análisis ambiental, planos y normas urbanísticas."
+      }
+    },
+    {
+      "id": 19,
+      "enunciado": "Entre las funciones de un plan parcial, según dispone la Ley del Suelo de la Comunidad de Madrid, podemos destacar las siguientes:",
+      "opciones": {
+        "a": "establecer la ordenación pormenorizada en ámbitos de suelo urbano consolidado y urbanizable.",
+        "b": "podrá modificar cualesquiera determinaciones de ordenación pormenorizada establecidas por el planeamiento general sobre el ámbito, si son congruentes con la ordenación estructurante del planeamiento general.",
+        "c": "no podrá modificar las determinaciones de ordenación pormenorizada establecidas por el planeamiento general sobre el ámbito, aunque sean congruentes con la ordenación estructurante de este planeamiento."
+      }
+    },
+    {
+      "id": 20,
+      "enunciado": "Los proyectos de reparcelación deberán ajustarse entre otros a los siguientes criterios, conforme a las determinaciones de la Ley del Suelo de la Comunidad de Madrid:",
+      "opciones": {
+        "a": "la edificabilidad materializable en cada finca resultante habrá de ser proporcional al derecho de los adjudicatarios en función de sus aportaciones a la gestión y ejecución del planeamiento.",
+        "b": "la edificabilidad materializable en cada finca resultante habrá de ser la misma de la finca original de los adjudicatarios en función de sus aportaciones a la gestión y ejecución del planeamiento",
+        "c": "la edificabilidad materializable en cada finca resultante habrá de ser proporcional al derecho de los adjudicatarios en función de sus adjudicaciones en la gestión y ejecución del planeamiento"
+      }
+    },
+    {
+      "id": 21,
+      "enunciado": "Según la Ley del Suelo de la Comunidad de Madrid, la expropiación del suelo destinado a redes públicas de infraestructuras, equipamientos y servicios públicos deberá tener lugar dentro de un plazo determinado siguiente a la aprobación del planeamiento urbanístico que legitime la actividad de ejecución. ¿Qué plazo es?:",
+      "opciones": {
+        "a": "un año",
+        "b": "tres años",
+        "c": "cinco años"
+      }
+    },
+    {
+      "id": 22,
+      "enunciado": "Según la Ley del Suelo de la Comunidad de Madrid, la iniciativa para la aplicación efectiva y la definición del sistema de compensación podrá ejercerse, una vez establecido dicho sistema por el planeamiento urbanístico o con ocasión de la delimitación de la unidad o unidades de ejecución correspondientes, por:",
+      "opciones": {
+        "a": "En el suelo urbano no consolidado y en el suelo urbanizable sectorizado durante el año siguiente a la publicación del acuerdo de aprobación definitiva del Plan General, por propietarios de terrenos incluidos en el ámbito de actuación, sector o la unidad de ejecución que representen al menos el 50 por 100 de la superficie total del ámbito de actuación, sector o de la unidad de ejecución.",
+        "b": "En el suelo urbano no consolidado y en el suelo urbanizable sectorizado durante los dos años siguientes a la publicación del acuerdo de aprobación definitiva del Plan General, por propietarios de terrenos incluidos en el ámbito de actuación, sector o la unidad de ejecución que representen al menos el 50 por 100 de la superficie total del ámbito de actuación, sector o de la unidad de ejecución.",
+        "c": "En el suelo urbano no consolidado y en el suelo urbanizable sectorizado durante el año siguiente a la publicación del acuerdo de aprobación definitiva del Plan General, por al menos el 50 por 100 de los propietarios de terrenos incluidos en el ámbito de actuación, sector o la unidad de ejecución."
+      }
+    },
+    {
+      "id": 23,
+      "enunciado": "Según el artículo 135 de la Ley del Suelo de la Comunidad de Madrid, las obras de urbanización de una unidad de ejecución:",
+      "opciones": {
+        "a": "podrán ser objeto de recepción parcial cuando sean susceptibles de ser ejecutadas por unidades funcionales independientes capaces de prestar el uso al que vaya destinada la unidad funcional y de que puedan ser entregadas al uso o servicio público de forma autónoma e independiente del resto de unidades funcionales y, en todo caso, no se podrá autorizar la primera ocupación de edificaciones hasta la recepción de las obras de urbanizacion de la unidad de ejecución completa.",
+        "b": "no podrán ser objeto de recepción parcial, aunque sean susceptibles de ser ejecutadas por unidades funcionales independientes capaces de prestar el uso al que vaya destinada la unidad funcional y de que puedan ser entregadas al uso o servicio público de forma autónoma e independiente del resto de unidades funcionales.",
+        "c": "podrán ser objeto de recepción parcial cuando sean susceptibles de ser ejecutadas por unidades funcionales independientes capaces de prestar el uso al que vaya destinada la unidad funcional y de que puedan ser entregadas al uso o servicio público de forma autónoma e independiente del resto de unidades funcionales."
+      }
+    },
+    {
+      "id": 24,
+      "enunciado": "Según el artículo 145 de la Ley del Suelo de la Comunidad de Madrid tienen la consideración legal de actos de parcelación urbanística cualquier división o parcelación de terreno que se lleve a cabo:",
+      "opciones": {
+        "a": "en todo el suelo clasificado como urbano y urbanizable desde la aprobación definitiva del planeamiento general y que cuenten con el planeamiento de desarrollo en tramitación.",
+        "b": "en suelo urbano en todas sus categorías que cuenten con la correspondiente ordenación pormenorizada aprobada provisionalmente.",
+        "c": "en cualquier suelo clasificado como urbano siempre que cuente con ordenación pormenorizada aprobada definitivamente."
+      }
+    },
+    {
+      "id": 25,
+      "enunciado": "Los proyectos de actuación especial, según la Ley del Suelo de la Comunidad de Madrid, tienen por objeto definir con toda precisión el o los usos correspondientes y las obras e instalaciones precisas para su establecimiento y desarrollo en una o varias unidades mínimas completas, cuando estos actos pretendan llevarse a cabo:",
+      "opciones": {
+        "a": "en suelo no urbanizable de protección y en suelo urbanizable no sectorizado.",
+        "b": "en suelo urbanizable sectorizado y no sectorizado",
+        "c": "en suelo urbanizable no sectorizado"
+      }
+    },
+    {
+      "id": 26,
+      "enunciado": "Según el artículo 159 de la Ley 9/2001, de 17 de julio, del Suelo, de la Comunidad de Madrid, en relación con el procedimiento de control posterior de las declaraciones responsables urbanísticas:",
+      "opciones": {
+        "a": "Deberán ser visitadas a efectos de su inspección al menos dos veces: Una con motivo del inicio o acta de replanteo de las obras y otra con ocasión de la terminación de éstas.",
+        "b": "Deberán ser visitadas a efectos de su inspección por el ayuntamiento o sus entidades colaboradoras al menos una vez.",
+        "c": "Serán objeto necesariamente de control posterior por el ayuntamiento o sus entidades colaboradoras."
+      }
+    },
+    {
+      "id": 27,
+      "enunciado": "Según el artículo 163 de la Ley 9/2001, de 17 de julio, del Suelo, de la Comunidad de Madrid, en relación con los actos no sujetos a título habilitantes de naturaleza urbanística promovidos por otras Administraciones Públicas, ¿qué documento sustituirá, a todos los efectos, al título habilitante de naturaleza urbanística que requiera la puesta en marcha del uso o actividad a que vayan destinadas las obras, edificaciones o construcciones llevadas a cabo?:",
+      "opciones": {
+        "a": "El acta de aprobación del proyecto.",
+        "b": "El acta de recepción de las obras.",
+        "c": "El acta de puesta en servicio."
+      }
+    },
+    {
+      "id": 28,
+      "enunciado": "Según la Ley del Suelo de la Comunidad de Madrid procederá la declaración de la situación legal de ruina urbanística de una construcción o edificación en los siguientes supuestos:",
+      "opciones": {
+        "a": "Cuando el coste de las obras para devolver a la edificación la estabilidad, seguridad, estanqueidad y consolidación estructurales, supere la mitad del valor de un edificio o construcción de nueva planta con similares características e igual superficie útil que la existente, incluido el valor del suelo.",
+        "b": "Cuando el coste de las obras para devolver a la edificación la estabilidad, seguridad, estanqueidad y consolidación estructurales, supere un tercio del valor de un edificio o construcción de nueva planta con similares características e igual superficie útil que la existente, incluido el valor del suelo.",
+        "c": "Cuando el coste de las obras para devolver a la edificación la estabilidad, seguridad, estanqueidad y consolidación estructurales, supere la mitad del valor de un edificio o construcción de nueva planta con similares características e igual superficie útil que la existente, excluido el valor del suelo."
+      }
+    },
+    {
+      "id": 29,
+      "enunciado": "Según lo dispuesto en la Ley del Suelo de la Comunidad de Madrid, los instrumentos de la ordenación del territorio y los Planes Generales y Sectoriales podrán establecer, en cualquier clase de suelo, reservas de terrenos, construidos o no, de posible adquisición para la constitución o ampliación de los patrimonios públicos de suelo comporta:",
+      "opciones": {
+        "a": "La declaración de la utilidad pública y la necesidad de la ocupación a efectos de expropiación forzosa por un tiempo máximo de dos años, prorrogable una sola vez por otros dos años mediante declaración expresa fundada en causa justificada.",
+        "b": "La declaración de la utilidad pública y la necesidad de la ocupación a efectos de expropiación forzosa por un tiempo máximo de cuatro años, prorrogable una sola vez por otros dos años mediante declaración expresa fundada en causa justificada.",
+        "c": "La declaración de la utilidad pública y la necesidad de la ocupación a efectos de expropiación forzosa por un tiempo máximo de dos años, prorrogable una sola vez por otro año mediante declaración expresa fundada en causa justificada."
+      }
+    },
+    {
+      "id": 30,
+      "enunciado": "Según lo dispuesto en la Ley del Suelo de la Comunidad de Madrid, los municipios de la Comunidad de Madrid podrán constituir el derecho de superficie en bienes de su propiedad o integrantes del patrimonio público de suelo correspondiente, con destino a cualquiera de los usos permitidos por la ordenación urbanística o fines de los patrimonios públicos de suelo, cuyo derecho corresponderá al superficiario por un período máximo de:",
+      "opciones": {
+        "a": "70 años",
+        "b": "75 años",
+        "c": "65 años"
+      }
+    },
+    {
+      "id": 31,
+      "enunciado": "Según el artículo 236 de la Ley del Suelo, de la Comunidad de Madrid, la prescripción de las infracciones urbanísticas que afecten a suelo no urbanizable de protección se producirá por el transcurso de:",
+      "opciones": {
+        "a": "Cinco años.",
+        "b": "Diez años.",
+        "c": "Quince años."
+      }
+    },
+    {
+      "id": 32,
+      "enunciado": "Según lo dispuesto en la Ley del Suelo de la Comunidad de Madrid, las resoluciones del Jurado Territorial de Expropiación:",
+      "opciones": {
+        "a": "Ponen fin a la vía administrativa",
+        "b": "Son susceptibles de recurso de alzada ante el órgano de gobierno de la Comunidad de Madrid",
+        "c": "Son susceptibles de recurso de reposición ante el consejero de la Comunidad de Madrid competente en materia de ordenación urbanística."
+      }
+    },
+    {
+      "id": 33,
+      "enunciado": "Según lo dispuesto en la Ley del Suelo de la Comunidad de Madrid, el acceso por los ciudadanos a los contenidos de los convenios urbanísticos es:",
+      "opciones": {
+        "a": "Será posible para cualquier ciudadano.",
+        "b": "Solamente tendrán acceso aquellos ciudadanos que tengan la consideración de interesados según los criterios establecidos por la Ley del Suelo de la Comunidad de Madrid",
+        "c": "Solamente tendrán acceso las administraciones públicas."
+      }
+    },
+    {
+      "id": 34,
+      "enunciado": "Según el artículo 63 de la Ordenanza 6/2022, de 26 de abril, de Licencias y Declaraciones Responsables Urbanísticas del Ayuntamiento de Madrid, en relación con la certificación del control de actividades por entidades colaboradoras:",
+      "opciones": {
+        "a": "Cuando el interesado acuda a una entidad colaboradora para el cumplimiento de un deber de control de actividades establecido por un PIUM, la entidad colaboradora emitirá un informe de control, que será enviado al Ayuntamiento en un plazo máximo de 5 días desde la fecha en que se realice la inspección.",
+        "b": "En los supuestos en los que la entidad colaboradora apreciara la existencia de incumplimientos de la normativa que resulte de aplicación, incoará los procedimientos de restablecimiento de la legalidad que correspondan.",
+        "c": "Si los incumplimientos de la normativa detectados en la actuación de control fuesen susceptibles de provocar un grave riesgo a las personas o a los bienes, la entidad colaboradora comunicará este hecho al Ayuntamiento de manera inmediata."
+      }
+    },
+    {
+      "id": 35,
+      "enunciado": "Según los criterios generales de la Comisión para la Protección del Patrimonio Histórico, Artístico y Natural, a aplicar en las solicitudes de intervención en edificios catalogados y espacios de especial protección, aprobados con arreglo a lo previsto en la Disposición adicional tercera de la Ordenanza 6/2022, de 26 de abril, de Licencias y Declaraciones Responsables Urbanísticas del Ayuntamiento de Madrid, en relación con las Actuaciones en fachada, en edificios incluidos en el ámbito del APE 00-01 “Centro Histórico”, APEs de cascos históricos periféricos, APEs de colonias históricas o catalogados fuera de estos ámbitos, la carpintería:",
+      "opciones": {
+        "a": "Se retranqueará un mínimo de 15 cm del plano de fachada para los de catalogación parcial, y de 25 cm en el resto de los inmuebles catalogados.",
+        "b": "Se llevará a haces interiores del muro.",
+        "c": "Estará retranqueada del plano de fachada en las mismas condiciones que la original."
+      }
+    },
+    {
+      "id": 36,
+      "enunciado": "La Ordenanza de Conservación, Rehabilitación y Estado Ruinoso de las Edificaciones tiene por objeto regular los deberes de conservación y rehabilitación de los propietarios de terrenos, edificios y construcciones para mantenerlos en estado de:",
+      "opciones": {
+        "a": "Seguridad, salubridad, ornato público y decoro.",
+        "b": "Seguridad, habitabilidad, salubridad y ornato público.",
+        "c": "Seguridad, salubridad, accesibilidad, ornato público y decoro."
+      }
+    },
+    {
+      "id": 37,
+      "enunciado": "Los propietarios de los siguientes edificios y construcciones que se encuentren en situación legal de ruina y los incluidos en el Área de rehabilitación preferente, tienen el deber de rehabilitarlos a fin de recuperar o mejorar las condiciones de edificabilidad y uso efectivo.",
+      "opciones": {
+        "a": "Los edificios catalogados con los niveles 1, 2 y 3 del PGOUM o los protegidos por la legislación de patrimonio histórico.",
+        "b": "Los edificios catalogados solo con el nivel 1 del PGOUM o los protegidos por la legislación de patrimonio histórico.",
+        "c": "Los edificios catalogados con los niveles 1 o 2 del PGOUM o los protegidos por la legislación de patrimonio histórico."
+      }
+    },
+    {
+      "id": 38,
+      "enunciado": "Según el artículo 21 de la Ordenanza de Protección contra la Contaminación Acústica y Térmica, en el caso de que se pretenda la construcción de edificios en zonas donde los niveles ambientales existentes sean superiores a los objetivos que corresponden al uso proyectado:",
+      "opciones": {
+        "a": "La concesión de la licencia quedará condicionada a que en el proyecto presentado se incluya el incremento de los valores de aislamiento acústico en los paramentos exteriores que garantice que en el interior del edificio se respeten los niveles objetivo de calidad acústica compatibles con el uso pretendido.",
+        "b": "En el interior del edificio se podrán superar los niveles objetivo de calidad acústica compatibles con el uso pretendido en la misma cuantía que se superen los niveles ambientales.",
+        "c": "En el interior del edificio se podrán superar en 5 dB los niveles objetivo de calidad acústica compatibles con el uso pretendido."
+      }
+    },
+    {
+      "id": 39,
+      "enunciado": "Según el artículo 26 de la Ordenanza de Protección contra la Contaminación Acústica y Térmica, de 25 de febrero de 2011, los valores mínimos del aislamiento global DnT, A, exigibles a los elementos separadores entre los locales ocupados por una actividad TIPO 3.2 y los recintos destinados a uso educativo son:",
+      "opciones": {
+        "a": "DnT, A = 75 dB.",
+        "b": "DnT, A = 80 dB.",
+        "c": "DnT, A = 85 dB."
+      }
+    },
+    {
+      "id": 40,
+      "enunciado": "De conformidad con lo dispuesto en la Ley 12/2012 de 26 de diciembre, de Medidas Urgentes de liberalización del Comercio y de determinados Servicios, las actividades comerciales y de prestación de servicios podrán beneficiarse de la supresión de las licencias de ámbito municipal vinculadas con los establecimientos comerciales, sus instalaciones y determinadas obras previas, siempre que:",
+      "opciones": {
+        "a": "Cuando su superficie útil de exposición y venta al público no sea superior a 750 metros cuadrados.",
+        "b": "Cuando su superficie útil de exposición y venta al público no sea superior a 500 metros cuadrados.",
+        "c": "Cuando su superficie útil de exposición y venta al público no sea superior a 250 metros cuadrados."
+      }
+    },
+    {
+      "id": 41,
+      "enunciado": "Según lo dispuesto en la Ley 2/2012, de 12 de junio, de Dinamización de la Actividad Comercial en la Comunidad de Madrid, los comerciantes podrán proceder a la apertura de los establecimientos en días festivos:",
+      "opciones": {
+        "a": "Un número máximo de quince festivos al año dentro de los periodos comprendidos entre el primero de julio y quince de setiembre y entre el primero de noviembre y quince de febrero.",
+        "b": "Un número máximo de quince festivos al año.",
+        "c": "Sin limitación alguna."
+      }
+    },
+    {
+      "id": 42,
+      "enunciado": "De conformidad con lo dispuesto en la Ley 21/2013, de 9 de diciembre, de evaluación ambiental cuál de los siguientes principios no forma parte de los procedimientos de evaluación ambiental:",
+      "opciones": {
+        "a": "Racionalización, simplificación y concertación de los procedimientos de evaluación ambiental",
+        "b": "Colaboración activa de los distintos órganos administrativos que intervienen en el procedimiento de evaluación, facilitando la información necesaria que se les requiera",
+        "c": "Jerarquía funcional entre la Administración General del Estado y las Comunidades Autónomas."
+      }
+    },
+    {
+      "id": 43,
+      "enunciado": "De conformidad con lo dispuesto en la Ley 2/2002, de 19 de junio, de Evaluación Ambiental de la Comunidad de Madrid, el órgano ambiental de la Comunidad de Madrid, en el ámbito de sus competencias, podrá acordar la tramitación simultánea del procedimiento de evaluación ambiental estratégica de un plan o programa y el procedimiento de evaluación de impacto ambiental de los proyectos que lo desarrollen:",
+      "opciones": {
+        "a": "Siempre y cuando sean tramitados por el mismo órgano sustantivo.",
+        "b": "Siempre y cuando el promotor sea único para ambos procedimientos y sean tramitados por el mismo órgano sustantivo.",
+        "c": "Siempre y cuando el promotor sea único para ambos procedimientos con independencia de los órganos sustantivos de tramitación."
+      }
+    },
+    {
+      "id": 44,
+      "enunciado": "Según el capítulo 2.3 “Incidencia del Planeamiento sobre las situaciones preexistentes” de las normas urbanísticas del Plan General de Ordenación Urbana de Madrid, aquellos edificios que ocupen suelo afecto a dotaciones públicas, de carácter general o local, disconformes con las mismas serán calificados como fuera de ordenación absoluta, ¿serán admisibles las nuevas implantaciones o cambios de uso o actividades dentro de los admitidos por la norma zonal u ordenanza particular de aplicación?",
+      "opciones": {
+        "a": "Si",
+        "b": "No",
+        "c": "Siempre que se realicen mediante las obras permitidas en esta situación."
+      }
+    },
+    {
+      "id": 45,
+      "enunciado": "Según el artículo 3.1.1 de las normas urbanísticas del Plan General de Ordenación Urbana de Madrid. ¿Cuántas categorías se distinguen en el suelo no urbanizable?:",
+      "opciones": {
+        "a": "Dos categorías: no urbanizable común y suelo no urbanizable de protección de infraestructuras y dotaciones.",
+        "b": "Dos categorías: no urbanizable protegido y suelo no urbanizable común.",
+        "c": "Una categoría: no urbanizable de protección."
+      }
+    },
+    {
+      "id": 46,
+      "enunciado": "Según el artículo 3.2.2 de las normas urbanísticas del Plan General de Ordenación Urbana de Madrid, la adscripción a la clase de suelo urbano se contiene en el Plano de Ordenación (O). Entre otros ámbitos, las áreas de planeamiento específico son aquellos terrenos delimitados en el “O” y señalados con el código APE. Estas áreas con proceso de equidistribución pendiente ¿dentro de que categoría de suelo quedan englobadas?:",
+      "opciones": {
+        "a": "Suelo urbano consolidado",
+        "b": "Suelo urbano no consolidado",
+        "c": "Suelo urbano sectorizado"
+      }
+    },
+    {
+      "id": 47,
+      "enunciado": "Según el artículo 4.3.4 de las normas urbanísticas del Plan General de Ordenación Urbana de Madrid, los edificios catalogados se encuadran en tres niveles. Respecto a edificios con nivel de protección 1. ¿Cuántos grados de protección se distinguen?:",
+      "opciones": {
+        "a": "Tres grados: Singular, integral y estructural",
+        "b": "Dos grados: Singular y estructural",
+        "c": "Dos grados: Singular e integral"
+      }
+    },
+    {
+      "id": 48,
+      "enunciado": "Según la Sección Tercera, normas de protección del Catálogo General de Edificios Protegidos, de las normas urbanísticas del Plan General de Ordenación Urbana de Madrid, ¿cuál de las siguientes afirmaciones es correcta?:",
+      "opciones": {
+        "a": "Todos los edificios catalogados en el grado singular se regulan por la Norma Zonal 1 en su grado 5º, independientemente de cuál sea la de aplicación en el área en que se ubique.",
+        "b": "En el caso de inmuebles catalogados en nivel 1, ya que la protección no se extiende a la totalidad del edificio sino a determinados valores, el propietario podrá optar por la rehabilitación o la demolición, debiendo en este caso señalarse en la licencia la obligación de mantener en la nueva edificación los elementos que motivaron la protección, salvo que se demuestre imposibilidad, grave dificultad constructiva o coste desproporcionado.",
+        "c": "En edificios incluidos con niveles 1 y 2 de catalogación únicamente serán admisibles todos aquellos usos que supongan la recuperación de los originales del edificio y para los que fue proyectado o construido."
+      }
+    },
+    {
+      "id": 49,
+      "enunciado": "Según el capítulo 5.2, evaluación ambiental en el desarrollo del planeamiento de las normas urbanísticas del Plan General de Ordenación Urbana de Madrid, los instrumentos de planeamiento y sus modificaciones se someterán a evaluación ambiental de conformidad con lo establecido en la legislación medioambiental estatal y autonómica. Respecto a los estudios de repercusión por implantación de usos, ¿cuál de las siguientes afirmaciones es correcta?:",
+      "opciones": {
+        "a": "Requerirán la redacción de un Estudio de Repercusión por Implantación de Usos, con la finalidad de analizar y valorar la viabilidad de su implantación en función de la incidencia urbanística-ambiental en su ámbito, los usos compatibles establecidos directamente por los planeamientos de desarrollo.",
+        "b": "El Estudio de Repercusión por Implantación de Usos validado en procedimiento independiente, tendrá vigencia indefinida en las mismas condiciones que cualquier otro instrumento de planeamiento desde su aprobación definitiva.",
+        "c": "En el ámbito de análisis que abarcará el Estudio de Repercusión por Implantación de Usos se considerarán todas las manzanas interiores al círculo de diámetro doscientos cincuenta (250) metros con centro en el punto medio del lindero frontal de mayor longitud de la parcela en la que se pretenda la implantación del uso, y en el caso de presentar linderos frontales de igual longitud se tomará el que de frente a la calle de mayor anchura, excluyendo las parcelas dotacionales calificadas."
+      }
+    },
+    {
+      "id": 50,
+      "enunciado": "Según el capítulo 5.2, evaluación ambiental en el desarrollo del planeamiento de las normas urbanísticas del Plan General de Ordenación Urbana de Madrid, ¿cuándo perderá su vigencia el Estudio de Repercusión por Implantación de Usos?",
+      "opciones": {
+        "a": "Tiene vigencia indefinida, como cualquier otro planeamiento.",
+        "b": "Si no se solicita la licencia urbanística o se presenta la declaración responsable en el plazo máximo de dos años desde su aprobación.",
+        "c": "Si se modifican las circunstancias que motivaron su tramitación en función de su objeto especifico."
+      }
+    },
+    {
+      "id": 51,
+      "enunciado": "Según el capítulo 6.5 de las normas urbanísticas del Plan General de Ordenación Urbana de Madrid “Condiciones de edificabilidad”, ¿cuál de las siguientes afirmaciones es correcta?:",
+      "opciones": {
+        "a": "La superficie edificable es el valor mínimo que señala el planeamiento para limitar la superficie edificada total que puede construirse en una parcela o en un área determinada de planeamiento.",
+        "b": "El coeficiente de edificabilidad es la relación entre la superficie total edificable y la superficie de la proyección horizontal de referencia.",
+        "c": "El coeficiente de edificabilidad es la relación entre la superficie ocupable y la superficie de la parcela edificable."
+      }
+    },
+    {
+      "id": 52,
+      "enunciado": "Según el artículo 6.10.21 de las normas urbanísticas del Plan General de Ordenación Urbana de Madrid, el factor verde es un parámetro numérico que favorece la sostenibilidad ambiental mediante la generación de servicios ecosistémicos que mejoran las condiciones de confort térmico y bioclimático y del medio ambiente urbano, en el que se considera la cantidad de vegetación a incorporar en la edificación y en el espacio libre de parcela. ¿En qué intervenciones será obligatorio el cumplimiento de las determinaciones del factor verde?",
+      "opciones": {
+        "a": "En todos los proyectos de edificación presentados con las solicitudes de licencia o con las declaraciones responsables. Se justificara su cumplimiento en un apartado específico, así como las infraestructuras verdes, tecnologías y especies vegetales utilizadas para alcanzarlo.",
+        "b": "Se aplica en las obras de nueva planta, sustitución, ampliación, rehabilitación de reestructuración y acondicionamiento general.",
+        "c": "En las intervenciones sobre edificios sometidos a algún régimen de protección patrimonial, no les será de aplicación la determinación del factor verde, independientemente de su nivel y grado de protección."
+      }
+    },
+    {
+      "id": 53,
+      "enunciado": "Según el artículo 7.2.4, clasificación de los usos según su consideración en el cálculo del aprovechamiento tipo de las normas urbanísticas del Plan General de Ordenación Urbana de Madrid, ¿cuántos usos se distinguen a efectos del cálculo del aprovechamiento tipo en las áreas de reparto?",
+      "opciones": {
+        "a": "Los constituidos por el sistema de usos compatibles, autorizables, provisionales o prohibidos.",
+        "b": "Tres: los usos cualificados característicos y no característicos y los usos no cualificados.",
+        "c": "Los usos no intervienen en el cálculo del aprovechamiento tipo de las áreas de reparto."
+      }
+    },
+    {
+      "id": 54,
+      "enunciado": "Según el artículo 7.3.10 de las normas urbanísticas del Plan General de Ordenación Urbana de Madrid, condiciones de los talleres domésticos, ¿cuál de las siguientes afirmaciones es correcta?:",
+      "opciones": {
+        "a": "Los talleres domésticos respetarán el carácter residencial de la vivienda en que se ubican y ésta cumplirá el programa mínimo de vivienda, no obstante, la superficie máxima destinada a taller será inferior a un tercio (1/3) de la superficie útil de la vivienda.",
+        "b": "Salvo otras condiciones establecidas por las Normas Zonales u Ordenanzas particulares de las Áreas de Planeamiento Específico o de desarrollo del Plan General, su situación será en planta baja o inferiores a la baja.",
+        "c": "La superficie útil de vivienda no destinada a taller doméstico cumplirá el programa y superficie mínima de vivienda establecido, no obstante, los espacios destinados a ambas funciones estarán diferenciados espacialmente."
+      }
+    },
+    {
+      "id": 55,
+      "enunciado": "Según el capítulo 7.10.6 de las normas urbanísticas del Plan General de Ordenación Urbana de Madrid, regulación del uso equipamiento, es correcta la siguiente afirmación: “Las parcelas con calificación de equipamiento incluidas en Áreas de Planeamiento Específico (APE), Ámbitos de Planeamiento Incorporado (API) y Ámbitos de Suelo Urbanizable Incorporado (UZI), salvo que tuvieran determinaciones específicas en el planeamiento de referencia, se entenderán sometidas a las condiciones de la Norma Zonal 5, grado 2º.”",
+      "opciones": {
+        "a": "Si, se regularán por las condiciones de la zona 5 grado 2º, salvo la altura máxima que no sobrepasará las cuatro plantas ni una altura de coronación de quince (15) metros.",
+        "b": "No, se entenderán sometidas a las condiciones de la Norma Zonal 5, grado 3º.",
+        "c": "No, se regulan por su normativa específica del Área de Planeamiento en que se encuentre."
+      }
+    },
+    {
+      "id": 56,
+      "enunciado": "Según el artículo 8.2.5. de las Normas Urbanísticas del Plan General de Ordenación Urbana de Madrid, en relación con las condiciones particulares de la Zona 2, ¿Cuál es un ámbito de regulación de parcela?:",
+      "opciones": {
+        "a": "Ámbito A1 libre exterior: Define el espacio libre de parcela señalado en función de su mayor relación con la vía pública.",
+        "b": "Ámbito A2 libre interior: Comprende el espacio libre interior de parcela señalado en función de su menor relación con la vía pública.",
+        "c": "Ámbito A3 ocupable: Define la parte de parcela ocupada o susceptible de ser ocupada por la edificación principal."
+      }
+    },
+    {
+      "id": 57,
+      "enunciado": "Según el artículo 8.4.1. de las Normas Urbanísticas del Plan General de Ordenación Urbana de Madrid, en relación con el ámbito y características, en las condiciones particulares de la Zona 4:",
+      "opciones": {
+        "a": "Responde a la tipología edificatoria en manzana cerrada o entre medianeras.",
+        "b": "Responde a la tipología edificatoria en manzana cerrada.",
+        "c": "Responde a la tipología edificatoria en edificación aislada, manzana cerrada o entre medianeras."
+      }
+    },
+    {
+      "id": 58,
+      "enunciado": "Según el artículo 8.7.20. de las Normas Urbanísticas del Plan General de Ordenación Urbana de Madrid, en relación con las condiciones particulares del grado 2º Nivel “e” especial de la Zona 7:",
+      "opciones": {
+        "a": "La edificabilidad máxima es de un (1) metro cuadrado por metro cuadrado de parcela edificable.",
+        "b": "La edificabilidad máxima es de doce (12) metros cuadrados por cada diez (10) metros cuadrados de parcela edificable.",
+        "c": "La edificabilidad máxima es de doce (12) metros cuadrados por cada ocho (8) metros cuadrados de parcela edificable."
+      }
+    },
+    {
+      "id": 59,
+      "enunciado": "Según el artículo 8.10.2. de las Normas Urbanísticas del Plan General de Ordenación Urbana de Madrid, en relación con el contenido en los ejes terciarios:",
+      "opciones": {
+        "a": "A los efectos de compatibilidad de usos terciarios en el ámbito del APE.00.01 se estará a lo dispuesto en el Plano de Usos y Actividades.",
+        "b": "En las calles pertenecientes a los ejes terciarios, se admite como uso complementario, en régimen de edificio exclusivo, el uso de servicios terciarios.",
+        "c": "Las plazas incluidas dentro de ejes terciarios no estarán sometidas al régimen urbanístico de los mismos."
+      }
+    },
+    {
+      "id": 60,
+      "enunciado": "Según el artículo 13 del Real Decreto 105/2008, de 1 de febrero, por el que se regula la producción y gestión de los residuos de construcción y demolición, la utilización de residuos inertes procedentes de actividades de construcción o demolición en la restauración de un espacio ambientalmente degradado:",
+      "opciones": {
+        "a": "Podrá ser considerada una operación de valorización, y no una operación de eliminación de residuos en vertedero, cumpliendo ciertos requisitos.",
+        "b": "En cualquier caso será considerada una operación de eliminación de residuos.",
+        "c": "Estos residuos en ningún caso pueden utilizarse en la restauración de un espacio ambientalmente degradado."
+      }
+    },
+    {
+      "id": 61,
+      "enunciado": "De conformidad con lo dispuesto en la Ley 9/2017, de Contratos del Sector Público, no se considerarán contratos de obras aquellos que tengan por objeto:",
+      "opciones": {
+        "a": "La ejecución de una obra, aislada o conjuntamente con la redacción del proyecto.",
+        "b": "La realización, por cualquier medio, de una obra que cumpla los requisitos fijados por la entidad del sector público contratante que ejerza una influencia decisiva en el tipo o el proyecto de la obra.",
+        "c": "El derecho de explotación de las obras, que deberá implicar la transferencia de un riesgo operacional en la explotación de dichas obras abarcando el riesgo de demanda o el de suministro, o ambos."
+      }
+    },
+    {
+      "id": 62,
+      "enunciado": "Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, ¿Dónde deberán publicarse todos los anuncios de licitación para la adjudicación de contratos de las Administraciones Públicas?:",
+      "opciones": {
+        "a": "En el perfil del contratante, a excepción de los procedimientos negociados sin publicidad.",
+        "b": "En el perfil del contratante, en el Boletín Oficial del Estado y en el Diario Oficial de la Unión Europea.",
+        "c": "En el perfil del contratante y en el Boletín Oficial del Estado."
+      }
+    },
+    {
+      "id": 63,
+      "enunciado": "Según lo indicado en el Código Técnico de la Edificación, Parte I, el control de calidad de las obras realizado incluirá el control de recepción de productos, los controles de la ejecución y de la obra terminada. Para ello:",
+      "opciones": {
+        "a": "El constructor recopilará la documentación del control realizado, verificando que es conforme con lo establecido en el proyecto, sus anejos y modificaciones.",
+        "b": "La documentación de calidad preparada por el director de la obra sobre cada una de las unidades de obra podrá servir, si así lo autorizara el promotor, como parte del control de calidad de la obra.",
+        "c": "El constructor recabará de los suministradores de productos y facilitará al director de obra y al director de la ejecución de la obra la documentación de los productos de la obra, así como sus instrucciones de uso y mantenimiento, y las garantías correspondientes cuando proceda."
+      }
+    },
+    {
+      "id": 64,
+      "enunciado": "En referencia con la seguridad frente al riesgo de impacto o de atrapamiento indicada en el Documento Básico Seguridad de utilización y accesibilidad DB SUA del Código Técnico de la Edificación, para limitar el riesgo de impacto con elementos frágiles, se identifican las siguientes áreas con riesgo de impacto:",
+      "opciones": {
+        "a": "En puertas, el área comprendida entre el nivel del suelo, una altura de 1,50 m y una anchura igual a la de la puerta más 0,30 m a cada lado de esta.",
+        "b": "En paños fijos, el área comprendida entre el nivel del suelo y una altura de 1,10 m.",
+        "c": "En ventanas, el área comprendida entre el nivel del suelo y una altura de 1,00 m."
+      }
+    },
+    {
+      "id": 65,
+      "enunciado": "En referencia con lo indicado en el Anejo A “Terminología”, del Documento Básico Seguridad de utilización y accesibilidad DB SUA del Código Técnico de la Edificación, en un edificio de uso Administrativo de más de 1.000 m2, para considerar un ascensor accesible y en referencia a las dimensiones mínimas de la cabina, deben ser:",
+      "opciones": {
+        "a": "1,00 x 1,25 m. cuando disponga de una puerta.",
+        "b": "1,25 x 1,40 m. cuando disponga de dos puertas enfrentadas.",
+        "c": "1,40 x 1,40 m. cuando disponga de dos puertas en ángulo."
+      }
+    },
+    {
+      "id": 66,
+      "enunciado": "¿Cómo debe ser el Itinerario peatonal accesible para cumplir con las prescripciones de la Orden TMA/851/2021, de 23 de julio, por la que se desarrolla el documento técnico de condiciones básicas de accesibilidad y no discriminación para el acceso y la utilización de los espacios públicos urbanizados?:",
+      "opciones": {
+        "a": "En todo su desarrollo poseerá una altura libre de paso no inferior a 2,20 m.",
+        "b": "En todo su desarrollo poseerá una anchura libre de paso no inferior a 1,20 m, m, que garantice el giro, cruce y cambio de dirección de las personas, independientemente de sus características o modo de desplazamiento.",
+        "c": "No presentará escalones."
+      }
+    },
+    {
+      "id": 67,
+      "enunciado": "Las rampas vinculadas a un itinerario peatonal accesible que se utilizan para salvar sus desniveles, excepto la de aquellas que forman parte de un punto de cruce con el itinerario y según lo indicado en la Orden TMA/851/2021, de 23 de julio, por la que se desarrolla el documento técnico de condiciones básicas de accesibilidad y no discriminación para el acceso y la utilización de los espacios públicos urbanizados:",
+      "opciones": {
+        "a": "Tendrán una anchura mínima libre de paso de 1,20 m.",
+        "b": "La longitud máxima en proyección horizontal será de 9,00 m.",
+        "c": "La pendiente longitudinal máxima será del 8% para tramos de hasta 3,00 m de longitud."
+      }
+    },
+    {
+      "id": 68,
+      "enunciado": "La estructura de muro de entramado de madera es la tipología estructural más empleada en la edificación residencial, desde el siglo XVII hasta el siglo XIX. Esta estructura se puede considerar:",
+      "opciones": {
+        "a": "Hiperestática",
+        "b": "Isostática",
+        "c": "Empotrada"
+      }
+    },
+    {
+      "id": 69,
+      "enunciado": "La cubierta de “par y picadero” está compuesta por:",
+      "opciones": {
+        "a": "Estructura triangulada, simétrica compuesta por dos pares en la que en su cara inferior apoyan sobre un tirante y en su cara superior, y formando el caballete, sobre un madero, de dirección perpendicular a este.",
+        "b": "Con correas que discurren paralelas a la línea de fachada, perpendiculares a la línea de máxima pendiente.",
+        "c": "Compuesta por piezas inclinadas en la dirección de máxima pendiente, pares. Se trata de un sistema biapoyado, que necesita un punto de apoyo en la parte inferior, generalmente sobre carrera y otro apoyo en la parte superior o cumbrera."
+      }
+    },
+    {
+      "id": 70,
+      "enunciado": "Las grietas en un paramento a nivel estructural son:",
+      "opciones": {
+        "a": "Paralelas a las líneas de compresión y perpendiculares a las líneas de tracción.",
+        "b": "Paralelas a las líneas de tracción y perpendiculares a las líneas de compresión.",
+        "c": "Paralelas a las líneas de tracción y oblicuas a las líneas de compresión."
+      }
+    },
+    {
+      "id": 71,
+      "enunciado": "El efecto del fuego sobre el hormigón provoca:",
+      "opciones": {
+        "a": "A partir de 800º el hormigón pierde totalmente su resistencia.",
+        "b": "De 300º a 500º presenta un color gris rojizo y conserva el 25% de su resistencia.",
+        "c": "Prácticamente no resulta afectado por temperaturas inferiores a los 300º."
+      }
+    },
+    {
+      "id": 72,
+      "enunciado": "Cual de estas piezas de un apeo es horizontal:",
+      "opciones": {
+        "a": "Riostra",
+        "b": "Enano",
+        "c": "Aguja"
+      }
+    },
+    {
+      "id": 73,
+      "enunciado": "Un apeo de muro en el mismo plano se ejecuta",
+      "opciones": {
+        "a": "Mediante apeos en puertas y ventanas con cabecero bajo dintel y virotillos que descargan hasta vierteaguas y en algunos casos con apeos con cruces de San Andrés.",
+        "b": "Mediante sopandas a través de puntales y durmientes, llevan la carga al terreno o elemento estable.",
+        "c": "Mediante tornapuntas acodalados contra sendos travesaños que se atornillan entre sí, formando un collarín."
+      }
+    },
+    {
+      "id": 74,
+      "enunciado": "Según el Documento Básico-Seguridad Estructural – Cimientos, del Código Técnico de la Edificación, es condición constructiva de zapatas:",
+      "opciones": {
+        "a": "Si las zapatas son de hormigón en masa o armado, sobre la superficie de la excavación debe extenderse una capa de hormigón, de regularización, que recibe el nombre de solera de asiento u hormigón de limpieza, cuyo espesor mínimo será de 20 cm.",
+        "b": "En la excavación de las zapatas, aunque el terreno firme se encuentre muy superficial, es conveniente profundizar de 1,2 a 1,5 m por debajo de la rasante.",
+        "c": "La terminación de la excavación en el fondo y las paredes debe tener lugar inmediatamente antes de la colocación de la solera de asiento, sea cual sea la naturaleza del terreno."
+      }
+    },
+    {
+      "id": 75,
+      "enunciado": "Según el Documento Básico Seguridad Estructural – Acciones en la Edificación, del Código Técnico de la Edificación, a efectos de la consideración de sobrecargas de uso en el cálculo de estructuras de edificios,",
+      "opciones": {
+        "a": "En porches, aceras y espacios de tránsito situados sobre un elemento portante o sobre un terreno que desarrolla empujes sobre otros elementos estructurales, se considerará una sobrecarga de uso de 1 kN/m2 si se trata de espacios de acceso público",
+        "b": "Para el dimensionado de un pilar, la suma de las sobrecargas de un mismo uso que graviten sobre él para las categorías de uso A, B, C y D, en edificios de tres plantas puede reducirse multiplicando por el coeficiente 0,8",
+        "c": "Para la comprobación local de balcones volados de toda clase de edificios se calcularán con la sobrecarga de uso correspondiente a la categoría de uso con la que se comunique, más una sobrecarga lineal actuando en sus bordes de 2 kN/m"
+      }
+    },
+    {
+      "id": 76,
+      "enunciado": "Según el Documento Básico Seguridad Estructural – Acciones en la Edificación, del Código Técnico de la Edificación, en relación al uso D1 Locales comerciales, debe considerarse una carga uniforme como valor característico de sobrecarga de uso de:",
+      "opciones": {
+        "a": "2 KN/m2",
+        "b": "3 KN/m2",
+        "c": "5 KN/m2"
+      }
+    },
+    {
+      "id": 77,
+      "enunciado": "Según el Documento Básico de Salubridad HS-4 – Suministro de Agua del Código Técnico de la Edificación, con relación a la incompatibilidad de materiales en tuberías de suministro de agua:",
+      "opciones": {
+        "a": "Las tuberías de cobre se colocarán antes de las conducciones de acero galvanizado, según el sentido de circulación del agua, para evitar la aparición de fenómenos de corrosión por la formación de pares galvánicos",
+        "b": "No se podrán acoplar al acero galvanizado elementos de acero inoxidable",
+        "c": "Se evitará el acoplamiento de tuberías y elementos de metales con diferentes valores de potencial electroquímico excepto cuando según el sentido de circulación del agua se instale primero el de menor valor"
+      }
+    },
+    {
+      "id": 78,
+      "enunciado": "Según el Documento Básico de Salubridad HS-5 – Evacuación de Aguas del Código Técnico de la Edificación, la altura mínima de cierre hidráulico de un elemento de la red de evacuación de aguas de un edificio para usos continuos debe ser:",
+      "opciones": {
+        "a": "70 mm",
+        "b": "50 mm",
+        "c": "100 mm"
+      }
+    },
+    {
+      "id": 79,
+      "enunciado": "Según el artículo 33-Hormigones del Código Estructural (Real Decreto 470/2021, de 29 de junio), el ion cloruro total aportado por los componentes del hormigón no excederá de los siguientes límites en obras de hormigón pretensado:",
+      "opciones": {
+        "a": "0,2% del peso del cemento.",
+        "b": "0,3% del peso del cemento.",
+        "c": "0,4% del peso del cemento."
+      }
+    },
+    {
+      "id": 80,
+      "enunciado": "Según el artículo 30-Áridos del Código Estructural (Real Decreto 470/2021, de 29 de junio), se denomina tamaño máximo D de un árido grueso o fino:",
+      "opciones": {
+        "a": "La mínima abertura de tamiz UNE-EN 933-2 que cumple los requisitos generales recogidos en la norma UNE-EN 12620, en función del tamaño del árido.",
+        "b": "La máxima abertura de tamiz UNE-EN 933-2 que cumple los requisitos generales recogidos en la norma UNE-EN 12620, en función del tamaño del árido.",
+        "c": "La máxima abertura de tamiz UNE-EN 933-2 que cumple los requisitos generales recogidos en la norma UNE-EN 12620, en función del tipo y del tamaño del árido."
+      }
+    },
+    {
+      "id": 81,
+      "enunciado": "Según el artículo 33-Hormigones del Código Estructural (Real Decreto 470/2021, de 29 de junio), el valor mínimo de la resistencia de proyecto fck no será inferior a:",
+      "opciones": {
+        "a": "20 N/mm² en hormigones postesados",
+        "b": "25 N/mm² en hormigones armados",
+        "c": "30 N/mm² en hormigones pretensados"
+      }
+    },
+    {
+      "id": 82,
+      "enunciado": "Según el Código Estructural (Real Decreto 470/2021, de 29 de junio), con relación al anclaje de las armaduras pasivas:",
+      "opciones": {
+        "a": "atendiendo a la posición que ocupa la barra en la pieza de hormigón, se distinguen tres posiciones a las que se les asigna una adherencia distinta",
+        "b": "en el caso de que puedan existir efectos dinámicos, las longitudes de anclaje indicadas en el código se aumentarán en 5ø.",
+        "c": "las longitudes básicas de anclaje (lb) dependen, entre otros factores, de las propiedades de adherencia de las barras y de la posición que estas ocupan en la pieza de hormigón"
+      }
+    },
+    {
+      "id": 83,
+      "enunciado": "Marcar la respuesta incorrecta. Según el Documento Básico – Seguridad Estructural – Acero, no es necesaria la comprobación a fatiga en las estructuras de acero de edificios salvo en:",
+      "opciones": {
+        "a": "los que soportan grúas, aparatos de elevación y/o transporte, caminos de rodadura, vigas carrileras, etc.",
+        "b": "los que que soportan máquinas que induzcan vibraciones (prensas, máquinas alternativas, etc.).",
+        "c": "elementos esbeltos sometidos a sobrecargas inducidas por la nieve."
+      }
+    },
+    {
+      "id": 84,
+      "enunciado": "Según el artículo 95 del Código Estructural (Real Decreto 470/2021, de 29 de junio), la protección mediante metalización se consigue mediante proyección de:",
+      "opciones": {
+        "a": "cinc",
+        "b": "estaño",
+        "c": "pintura metálica"
+      }
+    },
+    {
+      "id": 85,
+      "enunciado": "Según el Código Estructural (Real Decreto 470/2021, de 29 de junio), el constructor deberá disponer de un estudio detallado del sistema de apuntalamiento, que deberá ser aprobado por la dirección facultativa:",
+      "opciones": {
+        "a": "Cuando los forjados tengan un peso propio mayor que 5 kN/m².",
+        "b": "Cuando la altura de los puntales sea mayor que 3,0 m.",
+        "c": "Cuando el canto de los forjados sea mayor de 30 cm."
+      }
+    },
+    {
+      "id": 86,
+      "enunciado": "Cuál es la unión más resistente para unir dos tablas de madera estructural perpendiculares entre sí:",
+      "opciones": {
+        "a": "Ensamble a media madera",
+        "b": "Botón y botonera",
+        "c": "Cola de milano"
+      }
+    },
+    {
+      "id": 87,
+      "enunciado": "Según el Código Técnico de la Edificación-Documento Básico-Seguridad Estructural-Madera, a que tipo de madera estructural corresponde la siguiente definición, “producto derivado de la madera para uso estructural fabricado con chapas de madera de pequeño espesor (del orden de 3 a 5 mm) encoladas con la misma dirección de la fibra”:",
+      "opciones": {
+        "a": "Madera laminada encolada",
+        "b": "Tablero estructural",
+        "c": "Madera microlaminada"
+      }
+    },
+    {
+      "id": 88,
+      "enunciado": "De acuerdo con el Documento Básico Salubridad HS 1 Protección frente a la humedad del Código Técnico de la Edificación, en el encuentro de la fachada con los forjados, cuando la hoja principal esté interrumpida por los forjados y se tenga revestimiento exterior continuo, se podrá:",
+      "opciones": {
+        "a": "Disponer de una junta de desolidarización entre la hoja principal y cada forjado por debajo de éstos dejando una holgura de 12 cm que debe rellenarse después de la retracción de la hoja principal con un material cuya elasticidad sea compatible con la deformación prevista del forjado y protegerse de la filtración con un goterón.",
+        "b": "Disponer de un refuerzo del revestimiento exterior con mallas dispuestas a lo largo del forjado de tal forma que sobrepasen el elemento hasta 15 cm por encima del forjado y 15 cm por debajo de la primera hilada de la fábrica.",
+        "c": "Disponer de un refuerzo del revestimiento interior con mallas dispuestas en los puntos críticos del forjado de tal forma que sobrepasen el elemento hasta 12 cm por encima del forjado y 15 cm por debajo de la primera hilada de la fábrica."
+      }
+    },
+    {
+      "id": 89,
+      "enunciado": "En el encuentro de la cubierta con un paramento vertical y según lo establecido en el Documento Básico Salubridad HS 1 Protección frente a la humedad del Código Técnico de la Edificación:",
+      "opciones": {
+        "a": "Los elementos de protección deben cubrir como mínimo una banda del paramento vertical de 15 cm de altura por encima del tejado.",
+        "b": "Cuando el encuentro se produzca en la parte superior o lateral del faldón, los elementos de protección deben colocarse por encima de las piezas del tejado y prolongarse 5 cm como mínimo desde el encuentro.",
+        "c": "En el encuentro de la cubierta con un paramento vertical deben disponerse elementos de protección prefabricados o realizados in situ."
+      }
+    },
+    {
+      "id": 90,
+      "enunciado": "Según la ITC-BT-10 del Reglamento Electrotécnico para Baja Tensión, en un edificio destinado preferentemente a viviendas se calculará la carga correspondiente a los garajes considerando:",
+      "opciones": {
+        "a": "Un mínimo de 20 W por metro cuadrado y planta para garajes de ventilación natural y de 30 W para los de ventilación forzada.",
+        "b": "Un mínimo de 10 W por metro cuadrado y planta para garajes de ventilación natural y de 20 W para los de ventilación forzada.",
+        "c": "Un mínimo de 15 W por metro cuadrado y planta para garajes de ventilación natural y de 25 W para los de ventilación forzada."
+      }
+    },
+    {
+      "id": 91,
+      "enunciado": "Según la ITC-BT-26 del Reglamento Electrotécnico para Baja Tensión, en instalaciones interiores en vivienda, las líneas principales de tierra estarán constituidas por conductores de cobre:",
+      "opciones": {
+        "a": "De mayor o igual sección que la fijada para los conductores de protección, con un mínimo de 6 milímetros cuadrados.",
+        "b": "De igual sección que la fijada para los conductores de protección, con un mínimo de 10 milímetros cuadrados.",
+        "c": "De igual sección que la fijada para los conductores de protección, con un mínimo de 16 milímetros cuadrados."
+      }
+    },
+    {
+      "id": 92,
+      "enunciado": "Según la IT 1.3 “Exigencia de seguridad” del Reglamento de Instalaciones Térmicas de los Edificios, la ventilación natural directa al exterior puede realizarse, para las salas de máquinas contiguas a zonas al aire libre, mediante aberturas de área libre mínima de:",
+      "opciones": {
+        "a": "3 cm2/kW de potencia térmica nominal.",
+        "b": "5 cm2/kW de potencia térmica nominal.",
+        "c": "10 cm2/kW de potencia térmica nominal."
+      }
+    },
+    {
+      "id": 93,
+      "enunciado": "Según la Sección HE 4 “Contribución mínima de energía renovable para cubrir la demanda de agua caliente sanitaria” del Documento Básico HE Ahorro de Energía del Código Técnico de la Edificación, la contribución mínima de energía procedente de fuentes renovables:",
+      "opciones": {
+        "a": "Cubrirá al menos el 50% de la demanda energética anual para ACS y para climatización de piscina.",
+        "b": "Cubrirá al menos el 60% de la demanda energética anual para ACS y para climatización de piscina.",
+        "c": "Cubrirá al menos el 70% de la demanda energética anual para ACS y para climatización de piscina."
+      }
+    },
+    {
+      "id": 94,
+      "enunciado": "Según la Sección HE 6 “Dotaciones mínimas para la infraestructura de recarga de vehículos eléctricos” del Documento Básico HE Ahorro de Energía del Código Técnico de la Edificación, en los edificios de uso residencial privado se instalarán sistemas de conducción de cables que permitan el futuro suministro a estaciones de recarga:",
+      "opciones": {
+        "a": "Para el 100% de las plazas de aparcamiento.",
+        "b": "Para el 60% de las plazas de aparcamiento.",
+        "c": "Para el 50% de las plazas de aparcamiento."
+      }
+    },
+    {
+      "id": 95,
+      "enunciado": "Según tabla 2.1 “Clasificación de los locales y zonas de riesgo especial integrados en edificios”, de la Sección SI 1 “Propagación interior” del Documento Básico SI Seguridad en Caso de Incendio del Código Técnico de la Edificación, los almacenes de residuos de cualquier edificio o establecimiento se consideran locales de riesgo especial alto, cuando:",
+      "opciones": {
+        "a": "La superficie construida S > 20 m2.",
+        "b": "La superficie construida S > 30 m2.",
+        "c": "El volumen construido V > 20 m3."
+      }
+    },
+    {
+      "id": 96,
+      "enunciado": "Conforme a la sección SI 3 “Evacuación de los Ocupantes” del Documento Básico SI Seguridad en Caso de Incendio del Código Técnico de la Edificación, las puertas de salida situadas en recorridos de evacuación abrirán en el sentido de la evacuación, cuando estén previstas para el paso de:",
+      "opciones": {
+        "a": "Más de 100 personas en edificios de uso Residencial Vivienda",
+        "b": "Más de 50 personas en edificios de uso Administrativo",
+        "c": "Más de 50 ocupantes del recinto o espacio en el que esté situada."
+      }
+    },
+    {
+      "id": 97,
+      "enunciado": "De acuerdo con lo indicado en la tabla 1.1 “Dotación de instalaciones de protección contra incendios” del SI 4 “Instalaciones de protección contra incendios” del Documento Básico SI Seguridad en Caso de Incendio del Código Técnico de la Edificación, se deberá disponer de ascensor de emergencia:",
+      "opciones": {
+        "a": "En general, en las plantas cuya altura de evacuación exceda de 28 m.",
+        "b": "En uso hospitalario, en las zonas de hospitalización y de tratamiento intensivo cuya altura de evacuación es mayor que 12 m.",
+        "c": "En uso residencial público, si la superficie construida del establecimiento excede de 5 000 m2."
+      }
+    },
+    {
+      "id": 98,
+      "enunciado": "Según la Disposición final segunda del Real Decreto 393/2007, de 23 de marzo, por el que se aprueba la Norma Básica de Autoprotección, en relación con las atribuciones de las entidades locales:",
+      "opciones": {
+        "a": "Podrán elaborar criterios, estudios y propuestas en el ámbito de la autoprotección.",
+        "b": "Podrán extender las obligaciones de autoprotección a actividades, centros, establecimientos, espacios, instalaciones o dependencias donde se desarrollan actividades no incluidas en anexo I de la Norma Básica de Autoprotección.",
+        "c": "No podrán desarrollar los procedimientos de control e inspección de los planes de autoprotección, correspondiendo estos a la Comisión Nacional de Protección Civil en materia de autoprotección."
+      }
+    },
+    {
+      "id": 99,
+      "enunciado": "Según el artículo 4 del Real Decreto 1627/1997, de 24 de octubre, por el que se establecen disposiciones mínimas de seguridad y de salud en las obras de construcción, el promotor estará obligado a que en la fase de redacción del proyecto se elabore un estudio de seguridad y salud en los proyectos de obra:",
+      "opciones": {
+        "a": "Que la duración estimada sea superior a 60 días laborables, empleándose en algún momento a más de 30 trabajadores simultáneamente.",
+        "b": "Que la duración estimada sea superior a 30 días laborables, empleándose en algún momento a más de 20 trabajadores simultáneamente.",
+        "c": "Que la duración estimada sea superior a 20 días laborables, empleándose en algún momento a más de 10 trabajadores simultáneamente."
+      }
+    },
+    {
+      "id": 100,
+      "enunciado": "Según el artículo 9 del Real Decreto 1627/1997, de 24 de octubre, por el que se establecen disposiciones mínimas de seguridad y de salud en las obras de construcción, ¿a quién le corresponde adoptar las medidas necesarias para que sólo las personas autorizadas puedan acceder a la obra?:",
+      "opciones": {
+        "a": "Al promotor de la obra.",
+        "b": "Al contratista o subcontratista.",
+        "c": "Al coordinador en materia de seguridad y salud durante la ejecución de la obra si es necesaria su designación."
+      }
+    },
+    {
+      "id": 101,
+      "enunciado": "Según el artículo 7.8.4 de las normas urbanísticas del Plan General de Ordenación Urbana de Madrid, condiciones particulares de las zonas verdes de nivel básico, es correcta la siguiente afirmación: “En planeamientos de desarrollo del Plan General la superficie mínima, salvo determinación en contra en la ficha correspondiente, será de mil (1.000) metros cuadrados, admitiendo la inscripción de un círculo de treinta (30) metros de diámetro, en suelo urbanizable; en suelo urbano, la superficie mínima será de quinientos (500) metros cuadrados, permitiendo la inscripción de un círculo de veinte (20) metros de diámetro.”",
+      "opciones": {
+        "a": "Si, es correcta siempre que se trate de una zona verde de nivel básico de nueva creación.",
+        "b": "No, en las zonas verdes de nueva creación no se señalan superficies mínimas a poder implantarse distintas categorías: zona verde de barrio, parque distrital, parque urbano o parque metropolitano.",
+        "c": "No, únicamente se establecen dimensiones mínimas de nueva creación si se pretendiese la implantación de un parque metropolitano por tratarse de un área con carácter predominante forestal."
+      }
+    },
+    {
+      "id": 102,
+      "enunciado": "Tal y como establece el Real Decreto 513/2017, de 22 de mayo, por el que se aprueba el Reglamento de instalaciones de protección contra incendios, en los sistemas de boca de incendio equipadas:",
+      "opciones": {
+        "a": "Solo se admitirán 25 milímetros de diámetro interior, para mangueras semirrígidas",
+        "b": "Solo se admitirán 45 milímetros de diámetro interior, para mangueras semirrígidas.",
+        "c": "Solo se admitirán 55 milímetros de diámetro interior, para mangueras planas."
+      }
+    },
+    {
+      "id": 103,
+      "enunciado": "Según el artículo 3 del Real Decreto 390/2021, de 1 de junio, por el que se aprueba el procedimiento básico para la certificación de la eficiencia energética de los edificios, se excluyen del ámbito de su aplicación:",
+      "opciones": {
+        "a": "Edificios o partes de edificios con una superficie útil total superior a 500 m2 destinados a uso administrativo.",
+        "b": "Construcciones provisionales con un plazo previsto de utilización igual o inferior a dos años.",
+        "c": "Edificios o partes de edificios en los que se realicen reformas o ampliaciones con una intervención en más del 25% de la superficie total de la envolvente térmica final del edificio."
+      }
+    },
+    {
+      "id": 104,
+      "enunciado": "Según establece la Ley de Ordenación de la Edificación, el seguro de daños materiales, seguro de caución o garantía financiera, para garantizar, durante un año, el resarcimiento de los daños materiales por vicios o defectos de ejecución que afecten a elementos de terminación o acabado de las obras podrá ser sustituido:",
+      "opciones": {
+        "a": "Por la retención por el promotor de un 5 por 100 del importe de la ejecución material de la obra.",
+        "b": "Por la retención por el promotor de un 10 por 100 del importe de la ejecución material de la obra.",
+        "c": "Por la retención por el promotor de un 30 por 100 del importe de la ejecución material de la obra."
+      }
+    },
+    {
+      "id": 105,
+      "enunciado": "Según el artículo 205 de la Ley del Suelo de la Comunidad de Madrid, en las obras, instalaciones, construcciones, edificaciones, actividades o usos del suelo ejecutados o desarrollados sin concurrencia de los presupuestos legales para su legitimidad o contraviniendo sus condiciones, si las obras proyectadas fueran incompatibles con el planeamiento urbanístico, serán responsables de las infracciones a todos los efectos:",
+      "opciones": {
+        "a": "Los promotores y constructores de las obras o instalaciones y los titulares.",
+        "b": "Los técnicos facultativos autores de los proyectos o documentos técnicos.",
+        "c": "Los promotores, constructores y titulares de las obras o instalaciones, los técnicos facultativos autores de los proyectos técnicos, el titular del órgano administrativo unipersonal que haya otorgado las autorizaciones o licencias y el Secretario del Ayuntamiento que no haya advertido de la omisión de alguno de los preceptivos informes técnico y jurídico, así como el o los funcionarios facultativos que hayan informado favorablemente con conocimiento de la vulneración del orden jurídico."
+      }
+    },
+    {
+      "id": 106,
+      "enunciado": "Señala la respuesta correcta. Según el Documento Básico Seguridad Estructural – Fábrica del Código Técnico de la Edificación, en la ejecución de los enlaces entre muros y forjados:",
+      "opciones": {
+        "a": "Cuando se empleen conectores, la separación de estos elementos de conexión entre muros y forjados no será mayor que 2,5 m, excepto en edificios de más de cuatro plantas de altura en los que no será mayor que 1,25 m.",
+        "b": "Cuando un forjado carga sobre un muro, la longitud de apoyo será la estructuralmente necesaria pero nunca menor de 50 mm.",
+        "c": "Las acciones laterales se transmitirán a los elementos arriostrantes o a través de la propia estructura de los forjados (monolíticos) o mediante vigas perimetrales capaces de absorber los momentos y cortantes resultantes."
+      }
+    },
+    {
+      "id": 107,
+      "enunciado": "De conformidad con lo dispuesto en la Ley 8/2023, de 30 de marzo, de Patrimonio Cultural de la Comunidad de Madrid, los bienes que componen el patrimonio cultural de la Comunidad de Madrid pueden ser declarados como:",
+      "opciones": {
+        "a": "Bienes de Interés Cultural, Bienes de Interés Patrimonial y Bienes Catalogados.",
+        "b": "Bienes de Interés Cultural y Bienes de Interés Patrimonial.",
+        "c": "Bienes de Interés Cultural, Bienes de Interés Patrimonial Protegido."
+      }
+    }
+  ]
+}

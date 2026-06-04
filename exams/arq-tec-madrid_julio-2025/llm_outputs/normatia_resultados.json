@@ -1,0 +1,547 @@
+{
+  "titulo_respuestas": "Plantilla de Respuestas Normatia - Acceso a la categoría de Arquitecto Técnico - Ayuntamiento de Madrid (19 Julio 2025)",
+  "llm_model": "Normatia",
+  "respuestas": [
+    {
+      "id": 11,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Actuaciones de transformación urbanística incluyen las de urbanización y las de dotación (Ley de Suelo y Rehabilitación Urbana, Art. 7.1)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 12,
+      "opcion_correcta": "a",
+      "normatia_justificacion": "Condiciones de accesibilidad deben recogerse en proyectos básicos, de ejecución y parciales (RDL 1/2013, Art. 26.2)",
+      "expected": null,
+      "acierto": null
+    },
+    {
+      "id": 13,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "El suelo rural se valora mediante capitalización de renta anual real o potencial (Art. 7 RD 1492/2011)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 14,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "El tipo de actualización se calcula sumando la prima de riesgo al tipo libre de riesgo (Orden ECO/805/2003, Art. 38.1)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 15,
+      "opcion_correcta": "a",
+      "normatia_justificacion": "Deber legal: suelo libre de cargas, porcentaje edificabilidad media ponderada (Ley Suelo y Rehabilitación Urbana, Art. 18.1.b)",
+      "expected": "a",
+      "acierto": true
+    },
+    {
+      "id": 16,
+      "opcion_correcta": "b",
+      "normatia_justificacion": "Adquirente subrogado en derechos y deberes urbanísticos y compromisos inscritos (Ley 9/2001, Art. 10.2)",
+      "expected": "b",
+      "acierto": true
+    },
+    {
+      "id": 17,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Obras accesorias para solar, previa o simultáneamente a edificación (Ley 9/2001, Art. 17.1)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 18,
+      "opcion_correcta": "b",
+      "normatia_justificacion": "Documentos mínimos: memoria, estudio viabilidad, informe ambiental, planos, normas urbanísticas, catálogo (Ley 9/2001, Art. 43)",
+      "expected": "b",
+      "acierto": true
+    },
+    {
+      "id": 19,
+      "opcion_correcta": "b",
+      "normatia_justificacion": "Plan Parcial puede modificar ordenación pormenorizada si congruente con estructurante (Ley 9/2001, Art. 47.3)",
+      "expected": "b",
+      "acierto": true
+    },
+    {
+      "id": 20,
+      "opcion_correcta": "a",
+      "normatia_justificacion": "Edificabilidad proporcional al derecho según aportaciones a gestión (Ley 9/2001, Art. 87.1.3)",
+      "expected": "a",
+      "acierto": true
+    },
+    {
+      "id": 21,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Plazo de 5 años para expropiación (Ley 9/2001, Art. 94.1)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 22,
+      "opcion_correcta": "a",
+      "normatia_justificacion": "1 año desde aprobación PG, 50% superficie (Ley 9/2001, Art. 104.1)",
+      "expected": "a",
+      "acierto": true
+    },
+    {
+      "id": 23,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Recepción parcial admisible para unidades funcionales independientes (Ley 9/2001, Art. 135.7)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 24,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Parcelación en suelo urbano con ordenación pormenorizada aprobada (Art. 145.1 y 145.3)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 25,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Proyectos de actuación especial en suelo urbanizable no sectorizado (Ley 9/2001, Art. 149.1)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 26,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Control posterior obligatorio de declaraciones responsables (Ley 9/2001, Art. 159.1 y 159.3)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 27,
+      "opcion_correcta": "b",
+      "normatia_justificacion": "Acta de recepción de obras sustituye al título habilitante (Ley 9/2001, Art. 163.6)",
+      "expected": "b",
+      "acierto": true
+    },
+    {
+      "id": 28,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Ruina: coste >50% valor nueva planta, excluido suelo (Ley 9/2001, Art. 171.1.1)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 29,
+      "opcion_correcta": "a",
+      "normatia_justificacion": "Reservas: 2 años prorrogable 2 años más (Ley 9/2001, Art. 175.2.a)",
+      "expected": "a",
+      "acierto": true
+    },
+    {
+      "id": 30,
+      "opcion_correcta": "b",
+      "normatia_justificacion": "Derecho de superficie: 75 años máximo (Ley 9/2001 C. Madrid, Art. 180)",
+      "expected": "b",
+      "acierto": true
+    },
+    {
+      "id": 31,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Prescripción infracciones suelo no urbanizable protección: 15 años (Ley 9/2001, Art. 236.1)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 32,
+      "opcion_correcta": "a",
+      "normatia_justificacion": "Resoluciones Jurado Territorial Expropiación fin vía administrativa (Ley 9/2001, Art. 240.2)",
+      "expected": "a",
+      "acierto": true
+    },
+    {
+      "id": 33,
+      "opcion_correcta": "a",
+      "normatia_justificacion": "Cualquier ciudadano puede acceder a convenios urbanísticos (Ley 9/2001, Art. 248.3)",
+      "expected": "a",
+      "acierto": true
+    },
+    {
+      "id": 34,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "ECU comunica inmediatamente al Ayuntamiento riesgo grave (Ord. 6/2022, Art. 63)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 35,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Carpintería en mismas condiciones retranqueo que la original, salvo justificación (CPPHAN criterios, DA 3ª Ord. 6/2022)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 36,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Seguridad, salubridad, accesibilidad, ornato público y decoro (Ord. Conservación Madrid, Art. 1)",
+      "expected": "a",
+      "acierto": false
+    },
+    {
+      "id": 37,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Niveles 1 o 2 del PGOUM o protegidos por patrimonio histórico (Ord. Conservación Madrid)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 38,
+      "opcion_correcta": "a",
+      "normatia_justificacion": "Licencia condicionada a incremento aislamiento acústico en paramentos exteriores (Ord. Cont. Acústica, Art. 21)",
+      "expected": "a",
+      "acierto": true
+    },
+    {
+      "id": 39,
+      "opcion_correcta": "a",
+      "normatia_justificacion": "DnT,A = 75 dB para actividad TIPO 3.2 con uso educativo (Ord. Cont. Acústica, Art. 26)",
+      "expected": null,
+      "acierto": null
+    },
+    {
+      "id": 40,
+      "opcion_correcta": "a",
+      "normatia_justificacion": "Supresión licencias: superficie ≤ 750 m2 (Ley 12/2012, Art. 2.1.a)",
+      "expected": "a",
+      "acierto": true
+    },
+    {
+      "id": 41,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Libertad apertura festivos sin limitación (Ley 2/2012 C. Madrid, Art. 6)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 42,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Jerarquía funcional AGE-CCAA NO es principio de evaluación ambiental (Ley 21/2013, Art. 2)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 43,
+      "opcion_correcta": "b",
+      "normatia_justificacion": "Tramitación simultánea: mismo promotor y mismo órgano sustantivo (Ley 2/2002 C. Madrid)",
+      "expected": null,
+      "acierto": null
+    },
+    {
+      "id": 44,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Admisibles cambios de uso con obras permitidas en fuera de ordenación absoluta (PGOU Madrid, Art. 2.3.3)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 45,
+      "opcion_correcta": "b",
+      "normatia_justificacion": "Dos categorías: suelo no urbanizable común y suelo no urbanizable protegido (PGOU Madrid, Art. 3.1.1.1.c)",
+      "expected": "b",
+      "acierto": true
+    },
+    {
+      "id": 46,
+      "opcion_correcta": "b",
+      "normatia_justificacion": "APE con equidistribución pendiente = suelo urbano no consolidado (PGOU Madrid, Art. 3.2.3.4)",
+      "expected": "b",
+      "acierto": true
+    },
+    {
+      "id": 47,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Nivel 1 tiene dos grados: Singular e Integral (PGOU Madrid, Art. 4.3.4)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 48,
+      "opcion_correcta": "a",
+      "normatia_justificacion": "Edificios grado singular se regulan por NZ 1 grado 5º (PGOU Madrid, Art. 4.3.5.2)",
+      "expected": "a",
+      "acierto": true
+    },
+    {
+      "id": 49,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Ámbito estudio: círculo 250 m diámetro (PGOU Madrid, Art. 5.2.3.6)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 50,
+      "opcion_correcta": "b",
+      "normatia_justificacion": "Pierde vigencia si no se solicita licencia en 2 años (PGOU Madrid, Art. 5.2.3.2)",
+      "expected": "b",
+      "acierto": true
+    },
+    {
+      "id": 51,
+      "opcion_correcta": "b",
+      "normatia_justificacion": "Coeficiente edificabilidad = relación superficie edificable / proyección horizontal (PGOU Madrid, Art. 6.5.7.1)",
+      "expected": "b",
+      "acierto": true
+    },
+    {
+      "id": 52,
+      "opcion_correcta": "b",
+      "normatia_justificacion": "Factor verde obligatorio en nueva planta, sustitución, ampliación, rehabilitación (PGOU Madrid, Art. 6.10.21.2)",
+      "expected": "b",
+      "acierto": true
+    },
+    {
+      "id": 53,
+      "opcion_correcta": "b",
+      "normatia_justificacion": "Tres usos: cualificado característico, cualificado no característico, no cualificado (PGOU Madrid, Art. 7.2.4)",
+      "expected": "b",
+      "acierto": true
+    },
+    {
+      "id": 54,
+      "opcion_correcta": "b",
+      "normatia_justificacion": "Talleres domésticos en planta baja o inferiores (PGOU Madrid, Art. 7.3.10)",
+      "expected": "b",
+      "acierto": true
+    },
+    {
+      "id": 55,
+      "opcion_correcta": "b",
+      "normatia_justificacion": "Equipamiento en APE/API/UZI: NZ 5 grado 3º (PGOU Madrid, Art. 7.10.6.3)",
+      "expected": "b",
+      "acierto": true
+    },
+    {
+      "id": 56,
+      "opcion_correcta": "b",
+      "normatia_justificacion": "Ámbito A2 libre interior (PGOU Madrid, Art. 8.2.5)",
+      "expected": "b",
+      "acierto": true
+    },
+    {
+      "id": 57,
+      "opcion_correcta": "a",
+      "normatia_justificacion": "Zona 4: manzana cerrada o entre medianeras (PGOU Madrid, Art. 8.4.1.2)",
+      "expected": "a",
+      "acierto": true
+    },
+    {
+      "id": 58,
+      "opcion_correcta": "b",
+      "normatia_justificacion": "Edificabilidad grado 2º Zona 7: 1,2 m2/m2 = 12 m2/10 m2 (PGOU Madrid). Expected: a (1 m2/m2). Discrepancia.",
+      "expected": "a",
+      "acierto": false
+    },
+    {
+      "id": 59,
+      "opcion_correcta": "a",
+      "normatia_justificacion": "En APE.00.01 usos terciarios según Plano de Usos (PGOU Madrid, Art. 8.10.2.7)",
+      "expected": "a",
+      "acierto": true
+    },
+    {
+      "id": 60,
+      "opcion_correcta": "a",
+      "normatia_justificacion": "Residuos inertes en restauración: operación de valorización (RD 105/2008, Art. 13.1)",
+      "expected": "a",
+      "acierto": true
+    },
+    {
+      "id": 61,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Derecho de explotación con riesgo operacional = concesión, no contrato de obras (LCSP, Art. 14.1 y 14.4)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 62,
+      "opcion_correcta": "a",
+      "normatia_justificacion": "Publicación en perfil contratante, excepto negociados sin publicidad (LCSP, Art. 63.2)",
+      "expected": null,
+      "acierto": null
+    },
+    {
+      "id": 63,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Constructor recaba documentación productos y facilita a dirección facultativa (CTE DB Parte 1, Art. 7.2.1)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 64,
+      "opcion_correcta": "a",
+      "normatia_justificacion": "Área riesgo impacto puertas: suelo-1,50 m, anchura+0,30 m (DB SUA 2, 1.3.2.1)",
+      "expected": "a",
+      "acierto": true
+    },
+    {
+      "id": 65,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Ascensor accesible >1000m2: puertas ángulo 1,40×1,40 m (DB SUA Anejo A)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 66,
+      "opcion_correcta": "a",
+      "normatia_justificacion": "Itinerario peatonal accesible: altura libre ≥ 2,20 m (Orden TMA/851/2021, Art. 5.2.3)",
+      "expected": "a",
+      "acierto": true
+    },
+    {
+      "id": 67,
+      "opcion_correcta": "b",
+      "normatia_justificacion": "Rampas IPA: longitud máxima horizontal 9,00 m (Orden TMA/851/2021, Art. 14.2.2)",
+      "expected": "b",
+      "acierto": true
+    },
+    {
+      "id": 68,
+      "opcion_correcta": "b",
+      "normatia_justificacion": "Entramado madera s. XVII-XIX: estructura isostática (DB SE-M 5.3.1)",
+      "expected": null,
+      "acierto": null
+    },
+    {
+      "id": 69,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Cubierta par y picadero: pares biapoyados sobre carrera y cumbrera",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 70,
+      "opcion_correcta": "a",
+      "normatia_justificacion": "Grietas: paralelas a compresión, perpendiculares a tracción (CTE DB-SE F)",
+      "expected": "a",
+      "acierto": true
+    },
+    {
+      "id": 71,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Hormigón no afectado < 500°C (CTE DB-SI Anejo C, C.3.2)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 72,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Aguja es el elemento horizontal en un apeo",
+      "expected": null,
+      "acierto": null
+    },
+    {
+      "id": 73,
+      "opcion_correcta": "b",
+      "normatia_justificacion": "Apeo muro mismo plano: sopandas, puntales y durmientes al terreno",
+      "expected": null,
+      "acierto": null
+    },
+    {
+      "id": 74,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Excavación inmediatamente antes de solera de asiento (DB SE-C 4.5.1.3.1)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 75,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Balcones volados: sobrecarga uso + 2 kN/m lineal en bordes (DB SE-AE 3.1.1 punto 4)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 76,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Locales comerciales D1: 5 kN/m2 (DB SE-AE 3.1, Tabla 3.1)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 77,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Evitar acoplar metales diferente potencial, salvo primero menor valor (DB HS-4, 6.3.2.1)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 78,
+      "opcion_correcta": "b",
+      "normatia_justificacion": "Cierre hidráulico usos continuos: 50 mm (DB HS-5, 3.3.1.1)",
+      "expected": "b",
+      "acierto": true
+    },
+    {
+      "id": 79,
+      "opcion_correcta": "a",
+      "normatia_justificacion": "Cloruros hormigón pretensado: 0,2% peso cemento (CE Art. 33.3.3)",
+      "expected": "a",
+      "acierto": true
+    },
+    {
+      "id": 80,
+      "opcion_correcta": "a",
+      "normatia_justificacion": "Tamaño máximo D = mínima abertura tamiz UNE-EN 933-2 (CE Art. 30.1)",
+      "expected": null,
+      "acierto": null
+    },
+    {
+      "id": 81,
+      "opcion_correcta": "b",
+      "normatia_justificacion": "fck mínimo armado: 25 N/mm2, pretensado: 30 N/mm2 (CE Art. 33.3)",
+      "expected": null,
+      "acierto": null
+    },
+    {
+      "id": 82,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "Longitud básica anclaje depende adherencia y posición (CE Art. 49.5)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 83,
+      "opcion_correcta": "c",
+      "normatia_justificacion": "No necesitan fatiga: elementos esbeltos con sobrecarga nieve (DB SE-A 9.1.4)",
+      "expected": "c",
+      "acierto": true
+    },
+    {
+      "id": 84,
+      "opcion_correcta": "a",
+      "normatia_justificacion": "Metalización: proyección de cinc (CE Art. 95)",
+      "expected": "a",
+      "acierto": true
+    },
+    {"id":85,"opcion_correcta":"b","normatia_justificacion":"Estudio apuntalamiento: altura puntales > 6 m (CE Art. 52.2), pero ninguna opción coincide exactamente. Esperado: c) canto > 30 cm","expected":"c","acierto":false},
+    {"id":86,"opcion_correcta":"c","normatia_justificacion":"Cola de milano: mecánicamente superior para tracción en carpintería estructural","expected":null,"acierto":null},
+    {"id":87,"opcion_correcta":"c","normatia_justificacion":"Madera microlaminada (LVL): chapas 3-5 mm encoladas misma dirección fibra (DB SE-M Anejo A)","expected":"c","acierto":true},
+    {"id":88,"opcion_correcta":"b","normatia_justificacion":"Refuerzo revestimiento exterior con mallas 15 cm sobre forjado y 15 cm bajo 1ª hilada (DB HS-1 2.3.3.3.1.2)","expected":"b","acierto":true},
+    {"id":89,"opcion_correcta":"c","normatia_justificacion":"Elementos de protección prefabricados o in situ (DB HS-1 2.4.4.2.1)","expected":"c","acierto":true},
+    {"id":90,"opcion_correcta":"b","normatia_justificacion":"Garajes: 10 W/m2 ventilación natural, 20 W/m2 forzada (REBT ITC-BT-10 3.4)","expected":"b","acierto":true},
+    {"id":91,"opcion_correcta":"c","normatia_justificacion":"Líneas tierra: igual sección conductores protección, mínimo 16 mm2 (REBT ITC-BT-26 Art. 3.4)","expected":"c","acierto":true},
+    {"id":92,"opcion_correcta":"b","normatia_justificacion":"Ventilación salas máquinas: 5 cm2/kW (RITE IT 1.3.4.1.2.7)","expected":"b","acierto":true},
+    {"id":93,"opcion_correcta":"c","normatia_justificacion":"Contribución renovable ACS: 70% (CTE DB-HE 4 3.1.1)","expected":"c","acierto":true},
+    {"id":94,"opcion_correcta":"a","normatia_justificacion":"Conducciones para 100% plazas aparcamiento (CTE DB-HE 6)","expected":"a","acierto":true},
+    {"id":95,"opcion_correcta":"b","normatia_justificacion":"Almacén residuos riesgo alto: S > 30 m2 (DB SI 1 Tabla 2.1)","expected":"b","acierto":true},
+    {"id":96,"opcion_correcta":"c","normatia_justificacion":"Puertas abren sentido evacuación si >50 ocupantes del recinto (DB SI 3-6 Art. 3.b)","expected":"c","acierto":true},
+    {"id":97,"opcion_correcta":"a","normatia_justificacion":"Ascensor emergencia: altura evacuación > 28 m (DB SI 4 Tabla 1.1)","expected":"a","acierto":true},
+    {"id":98,"opcion_correcta":"b","normatia_justificacion":"Entidades locales pueden extender autoprotección a actividades no incluidas en anexo I (RD 393/2007 DF 2ª)","expected":"b","acierto":true},
+    {"id":99,"opcion_correcta":"b","normatia_justificacion":"ESS: >30 días y >20 trabajadores simultáneos (RD 1627/1997 Art. 4.1.b)","expected":"b","acierto":true},
+    {"id":100,"opcion_correcta":"c","normatia_justificacion":"Acceso obra: coordinador seguridad y salud durante ejecución (RD 1627/1997 Art. 9.6)","expected":"c","acierto":true},
+    {"id":101,"opcion_correcta":"a","normatia_justificacion":"Sí, correcta para zonas verdes nivel básico nueva creación (PGOU Madrid Art. 7.8.4.1)","expected":"a","acierto":true},
+    {"id":102,"opcion_correcta":"a","normatia_justificacion":"BIE semirrígida: 25 mm diámetro interior (RD 513/2017 Anexo I)","expected":"a","acierto":true},
+    {"id":103,"opcion_correcta":"b","normatia_justificacion":"Excluidas: construcciones provisionales plazo ≤2 años (RD 390/2021 Art. 3.2.b)","expected":"b","acierto":true},
+    {"id":104,"opcion_correcta":"a","normatia_justificacion":"Retención 5% del coste ejecución material (LOE Art. 19.1.a)","expected":"a","acierto":true},
+    {"id":105,"opcion_correcta":"b","normatia_justificacion":"Responsables: técnicos facultativos autores del proyecto (Ley 9/2001 Art. 205.1.a)","expected":"b","acierto":true},
+    {"id":106,"opcion_correcta":"c","normatia_justificacion":"Acciones laterales: forjados monolíticos o vigas perimetrales (DB SE-F 7.3.1.1)","expected":"c","acierto":true},
+    {"id":107,"opcion_correcta":"a","normatia_justificacion":"BIC, BIP y Bienes Catalogados (Ley 8/2023 Art. 12.1)","expected":"b","acierto":false}
+  ]
+}

@@ -1,0 +1,897 @@
+{
+  "titulo_examen": "Acceso a la categoría de Arquitecto Técnico - Ayuntamiento de Madrid (12 Julio 2025)",
+  "preguntas": [
+
+    {
+      "id": 21,
+      "enunciado": "Durante la vigencia de que iniciativa de Planeamiento General de la ciudad se produjo la anexión efectiva de trece municipios limítrofes como nuevos barrios y distritos de Madrid:",
+      "opciones": {
+        "a": "El Plan General de Extensión de 1931.",
+        "b": "El Plan Regional de Madrid de 1939.",
+        "c": "El Plan General de Ordenación Urbana de 1946."
+      }
+    },
+    {
+      "id": 22,
+      "enunciado": "En el Municipio de Madrid cual de las siguientes cuestiones no puede considerarse un requisito necesario para la tramitación de las modificaciones puntuales no sustanciales de instrumentos de planeamiento urbanístico:",
+      "opciones": {
+        "a": "Afecte a equipamientos, dotaciones, infraestructuras o servicios de especial interés social o utilidad pública.",
+        "b": "La superficie de la modificación no supere los 10.000 metros cuadrados.",
+        "c": "No afecten a una superficie superior al equivalente al 1 por 100 del suelo urbano."
+      }
+    },
+    {
+      "id": 23,
+      "enunciado": "Cuál de los siguientes órganos colegiados de carácter consultivo no constituye una competencia especifica atribuida al Ayuntamiento de Madrid:",
+      "opciones": {
+        "a": "Comisión de Calidad del Paisaje Urbano.",
+        "b": "Comisión Local de Patrimonio Histórico.",
+        "c": "Comisión Institucional para la Protección del Patrimonio Histórico, Artístico y Natural."
+      }
+    },
+    {
+      "id": 24,
+      "enunciado": "De acuerdo con lo establecido en la Ley 9/2001 del Suelo de la Comunidad de Madrid cual de las siguientes cuestiones no se consideraría determinación estructurante de la ordenación urbanística del planeamiento general:",
+      "opciones": {
+        "a": "La división del suelo en áreas homogéneas, ámbitos de actuación o sectores.",
+        "b": "El régimen de usos del suelo no urbanizable de protección.",
+        "c": "La definición de los elementos de infraestructuras, equipamientos y servicios públicos que conforman las redes locales"
+      }
+    },
+    {
+      "id": 25,
+      "enunciado": "De acuerdo con la clasificación general de tipos de vías pecuarias establecida en la Ley 3/1995 de Vías Pecuarias del Estado y asumida por la Ley 8/1998 de Vías Pecuarias de la Comunidad de Madrid, cuál de los siguientes límites de anchura no resultaría acorde con la tipología correspondiente:",
+      "opciones": {
+        "a": "Las cañadas son aquellas vías cuya anchura no exceda de los 75 metros.",
+        "b": "Son cordeles, cuando su anchura no sobrepase los 50 metros.",
+        "c": "Veredas son las vías que tienen una anchura no superior a los 20 metros."
+      }
+    },
+    {
+      "id": 26,
+      "enunciado": "Según el RDL 7/2015, Texto Refundido de la Ley de Suelo y Rehabilitación Urbana, cuál de los siguientes deberes no corresponde a la promoción de actuaciones de transformación urbanística:",
+      "opciones": {
+        "a": "Entregar a la Administración competente el suelo reservado para viales, espacios libres, zonas verdes y restantes dotaciones públicas incluidas en la actuación.",
+        "b": "Entregar a la Administración competente, y con destino a patrimonio público de suelo, el suelo libre de cargas de urbanización correspondiente al 22 % de la edificabilidad media ponderada de la actuación.",
+        "c": "Garantizar el realojamiento de los ocupantes legales del área de actuación"
+      }
+    },
+    {
+      "id": 27,
+      "enunciado": "Según el RDL 7/2015, Texto Refundido de la Ley de Suelo y Rehabilitación Urbana, cuál de los siguientes aspectos no se necesita acreditar en el informe de evaluación de los edificios:",
+      "opciones": {
+        "a": "Evaluación del estado de conservación del edificio.",
+        "b": "Evaluación de las condiciones básicas de accesibilidad universal.",
+        "c": "Evaluación de las condiciones básicas de seguridad contra incendios."
+      }
+    },
+    {
+      "id": 28,
+      "enunciado": "Según el Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el \"Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social\", en los proyectos de viviendas protegidas se programaran viviendas con características constructivas y de diseño que garantice el acceso y el uso seguro y cómodo para personas con discapacidad, que supondrán un porcentaje mínimo respecto al número total de viviendas proyectadas del:",
+      "opciones": {
+        "a": "1%",
+        "b": "3%",
+        "c": "4%"
+      }
+    },
+    {
+      "id": 29,
+      "enunciado": "Según la Ley 9/2001, de 17 de julio, del Suelo de la Comunidad de Madrid, que actividad de las siguientes no le corresponde a la ordenación urbanística:",
+      "opciones": {
+        "a": "La garantía de la efectividad del régimen urbanístico del suelo.",
+        "b": "Establecer los criterios de valoración del suelo.",
+        "c": "La ejecución del planeamiento urbanístico."
+      }
+    },
+    {
+      "id": 30,
+      "enunciado": "Cuál es el objeto de la Ley 9/2001, de 17 de julio, del Suelo de la Comunidad de Madrid:",
+      "opciones": {
+        "a": "La ordenación urbanística del suelo en la Comunidad de Madrid",
+        "b": "Garantizar que la ordenación urbanística se realiza conforme al interés público.",
+        "c": "La ordenación del territorio de acuerdo con las necesidades colectivas, públicas y privadas."
+      }
+    },
+    {
+      "id": 31,
+      "enunciado": "Según la Ley 9/2001, de 17 de julio, del Suelo de la Comunidad de Madrid, a que clase y categoría de suelo pertenece un suelo que está ocupado por la edificación al menos en las dos terceras partes de los espacios aptos para la misma, conforme al planeamiento urbanístico y además, precisa de obras de urbanización a realizar en régimen de actuación integrada de ejecución del planeamiento:",
+      "opciones": {
+        "a": "Suelo urbano consolidado",
+        "b": "Suelo urbano no consolidado",
+        "c": "Suelo urbanizable sectorizado"
+      }
+    },
+    {
+      "id": 32,
+      "enunciado": "Según la Ley 9/2001, de 17 de julio, del Suelo de la Comunidad de Madrid y el RDL 7/2015, Texto Refundido de la Ley de Suelo y Rehabilitación Urbana, cuál de los siguientes preceptos no es un deber de los propietarios de suelo:",
+      "opciones": {
+        "a": "Destinar el suelo al uso previsto por la ordenación urbanística",
+        "b": "Disfrutar de una vivienda digna, adecuada y accesible",
+        "c": "Conservar y mantener el suelo natural"
+      }
+    },
+    {
+      "id": 33,
+      "enunciado": "Según la Ley 9/2001, de 17 de julio, del Suelo de la Comunidad de Madrid, cuál de las siguientes no es una determinación estructurante de la ordenación urbanística:",
+      "opciones": {
+        "a": "La división del suelo en áreas homogéneas.",
+        "b": "La definición del sistema de redes locales.",
+        "c": "El régimen de usos del suelo no urbanizable de protección."
+      }
+    },
+    {
+      "id": 34,
+      "enunciado": "Según la Ley 9/2001, de 17 de julio, del Suelo de la Comunidad de Madrid, cual es el estándar de espacios libres públicos arbolados de redes locales, en un ámbito que no cuente con zonas verdes o espacios libres privados.",
+      "opciones": {
+        "a": "De 15 metros cuadrados por cada 100 metros cuadrados construidos.",
+        "b": "De 20 metros cuadrados por cada 100 metros cuadrados construidos.",
+        "c": "De 30 metros cuadrados por cada 100 metros cuadrados construidos."
+      }
+    },
+    {
+      "id": 35,
+      "enunciado": "Según la Ley 9/2001, de 17 de julio, del Suelo de la Comunidad de Madrid, que instrumentos de planeamiento necesitan incluir un \"resumen ejecutivo\" en la documentación que se somete a información pública:",
+      "opciones": {
+        "a": "Solo el planeamiento general.",
+        "b": "Solo el planeamiento de desarrollo.",
+        "c": "Tanto el planeamiento general como el planeamiento de desarrollo."
+      }
+    },
+    {
+      "id": 36,
+      "enunciado": "Según la Ley 9/2001, de 17 de julio, del Suelo de la Comunidad de Madrid, a quien corresponde la aprobación definitiva del Plan General de un municipio con población de derecho superior a 15.000 habitantes:",
+      "opciones": {
+        "a": "Al Consejo de Gobierno de la Comunidad de Madrid",
+        "b": "A la Comisión de Urbanismo de Madrid",
+        "c": "Al Pleno del Ayuntamiento"
+      }
+    },
+    {
+      "id": 37,
+      "enunciado": "Según la Ley 9/2001, de 17 de julio, del Suelo de la Comunidad de Madrid, cual es el importe mínimo de la prestación de garantía que sobre el coste total de ejecución de las obras de urbanización del sector y de los elementos de las redes generales que le corresponden, debe constar entre los compromisos del Plan de Sectorización",
+      "opciones": {
+        "a": "El 5 por 100",
+        "b": "El 10 por 100",
+        "c": "El 15 por 100"
+      }
+    },
+    {
+      "id": 38,
+      "enunciado": "Según la Ley 9/2001, de 17 de julio, del Suelo de la Comunidad de Madrid, que determinación de las siguientes no puede establecerse mediante plan parcial:",
+      "opciones": {
+        "a": "La ordenación pormenorizada",
+        "b": "La clasificación del suelo",
+        "c": "La delimitación de unidades de ejecución"
+      }
+    },
+    {
+      "id": 39,
+      "enunciado": "Según la Ley 9/2001, de 17 de julio, del Suelo de la Comunidad de Madrid, cual es la duración del periodo de información pública de un estudio de detalle:",
+      "opciones": {
+        "a": "Un mes.",
+        "b": "30 dias.",
+        "c": "20 dias."
+      }
+    },
+    {
+      "id": 40,
+      "enunciado": "El Estudio de Accesibilidad que ha de acompañar a los proyectos municipales de intervención sobre el espacio público, contendrá como mínimo:",
+      "opciones": {
+        "a": "Los proyectos incluirán en su memoria un apartado en el que se detallen y justifiquen las condiciones de accesibilidad adoptadas.",
+        "b": "Memoria justificativa y planos de los elementos de accesibilidad.",
+        "c": "Memoria justificativa, planos de los elementos de accesibilidad y estimación económica de las medidas de accesibilidad adoptadas."
+      }
+    },
+    {
+      "id": 41,
+      "enunciado": "Según la Ley 9/2001, de 17 de julio , del Suelo de la Comunidad de Madrid, en la gestión de la actividad de ejecución a través del sistema de compensación será preceptiva la constitución de Junta de Compensación:",
+      "opciones": {
+        "a": "Siempre",
+        "b": "Cuando así lo estime el organismo que haya aprobado el sistema de ejecución",
+        "c": "Cuando los propietarios que hayan dado lugar a la iniciativa no representen a la totalidad de la superficie del suelo del sector o unidad de ejecución"
+      }
+    },
+    {
+      "id": 42,
+      "enunciado": "Según la Ley 9/2001, de 17 de julio , del Suelo de la Comunidad de Madrid, la ejecución privada del planeamiento en actuaciones integradas se llevará a cabo por el sistema de:",
+      "opciones": {
+        "a": "compensación",
+        "b": "cooperación",
+        "c": "expropiación"
+      }
+    },
+    {
+      "id": 43,
+      "enunciado": "Según la ley 9/2001 del Suelo de la Comunidad de Madrid, todo el suelo urbanizable sectorizado clasificado por el Plan General:",
+      "opciones": {
+        "a": "Conformará varias áreas de reparto.",
+        "b": "Conformará una única área de reparto.",
+        "c": "Puede delegar en los Planes Parciales el establecimiento de las áreas de reparto."
+      }
+    },
+    {
+      "id": 44,
+      "enunciado": "Según Ley 9/2001 del Suelo de la Comunidad de Madrid, la delimitación de unidades de ejecución comprende las siguientes determinaciones:",
+      "opciones": {
+        "a": "Señalamiento preciso del perímetro de la unidad de ejecución que podrá ser continuo o discontinuo",
+        "b": "Señalamiento preciso del perímetro de la unidad de ejecución que deberá ser continuo",
+        "c": "Señalamiento preciso del perímetro de la unidad de ejecución y la elección del sistema de ejecución"
+      }
+    },
+    {
+      "id": 45,
+      "enunciado": "¿Pueden realizarse obras e instalaciones en suelo urbanizable sectorizado mediante un Proyecto de Actuación Especial?",
+      "opciones": {
+        "a": "Depende del tipo de obras e instalaciones.",
+        "b": "Sí.",
+        "c": "No."
+      }
+    },
+    {
+      "id": 46,
+      "enunciado": "Según Ley 9/2001 del Suelo de la Comunidad de Madrid, son actos de parcelación urbanística cualquier división o parcelación de terreno que se lleve a cabo",
+      "opciones": {
+        "a": "En suelo urbano y urbanizable, salvo en el urbanizable no sectorizado en el que no se haya aprobado Plan de Sectorización.",
+        "b": "En suelo urbano no consolidado y urbanizable sectorizado aunque no cuenten con la ordenación pormenorizada.",
+        "c": "En suelo urbano, urbanizable y no urbanizable de protección."
+      }
+    },
+    {
+      "id": 47,
+      "enunciado": "Según el art. 153 de la ley 9/2001 del Suelo de la Comunidad de Madrid, en el seno del procedimiento de solicitud de licencia urbanística cuando las obras presenten suficiente complejidad:",
+      "opciones": {
+        "a": "podrá convenirse un programa de autorización por partes autónomas de las obras, siempre que sea clara la viabilidad urbanística de la actuación en su conjunto.",
+        "b": "podrá convenirse un programa de autorización por partes autónomas de las obras, mediante el cual se podrán otorgar varias licencias urbanísticas de las partes de la obra previamente establecidas en el programa.",
+        "c": "podrá convenirse un programa de autorización por partes autónomas de las obras, y estudiar posteriormente la viabilidad urbanística de la actuación en su conjunto."
+      }
+    },
+    {
+      "id": 48,
+      "enunciado": "Según Ley 9/2001 del Suelo de la Comunidad de Madrid, las cesiones en metálico para infraestructuras, equipamientos y servicios públicos, distintas de las derivadas del cumplimiento de deberes u obligaciones, legales o voluntarios, asumidas en convenios o concursos públicos celebrados en aplicación de la ordenación urbanística:",
+      "opciones": {
+        "a": "Son fondos adscritos al patrimonio público del suelo",
+        "b": "Integran el patrimonio público del suelo",
+        "c": "Ninguna de las anteriores es correcta"
+      }
+    },
+    {
+      "id": 49,
+      "enunciado": "Según Ley 9/2001 del Suelo de la Comunidad de Madrid, cuando un mismo hecho pueda ser calificado como infracción por la Ley 9/2001 del Suelo de la Comunidad de Madrid y otras leyes sectoriales:",
+      "opciones": {
+        "a": "Se impondrán tantas sanciones como normas haya vulnerado.",
+        "b": "Tendrá preferencia en la aplicación los preceptos de la Ley 9/2001 del Suelo de la Comunidad de Madrid.",
+        "c": "Se aplicará el precepto que prevea una sanción más grave"
+      }
+    },
+    {
+      "id": 50,
+      "enunciado": "Según Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley de Suelo y Rehabilitación Urbana, para la valoración de las edificaciones o construcciones se tendrá́ en cuenta su antigüedad y su estado de conservación. Si han quedado incursas en la situación de fuera de ordenación:",
+      "opciones": {
+        "a": "Su valor se reducirá en proporción al tiempo transcurrido de su vida útil.",
+        "b": "Su valor se tasará con independencia de esta circunstancia.",
+        "c": "Su valor de tasación será cero."
+      }
+    },
+    {
+      "id": 51,
+      "enunciado": "Según la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, qué carácter jurídico tienen los pronunciamientos ambientales:",
+      "opciones": {
+        "a": "Preceptivo y no vinculante",
+        "b": "Recomendación",
+        "c": "Preceptivo y determinante."
+      }
+    },
+    {
+      "id": 52,
+      "enunciado": "Cuál de las operaciones estructurantes previstas por el Plan General de 1997 en Suelo Urbanizable, se encuentra desarrollada y ejecutada:",
+      "opciones": {
+        "a": "Recuperación de la avenida de Córdoba.",
+        "b": "Remate Suroeste: Campamento-Cuatro Vientos-PAU de Carabanchel.",
+        "c": "Ampliación de Barajas-Ciudad Aeroportuaria-Parque Valdebebas."
+      }
+    },
+    {
+      "id": 53,
+      "enunciado": "El Plan General de 1997, propone como operaciones estructurantes en Suelo Urbano, entre otras:",
+      "opciones": {
+        "a": "El Centro de Natación M’86.",
+        "b": "Transformación del Sur.",
+        "c": "La Nueva Centralidad del Este."
+      }
+    },
+    {
+      "id": 54,
+      "enunciado": "Según el Plan general de 1997, las modificaciones de los artículos de las Normas Urbanísticas distinguidos con el Nivel 1 (N-1):",
+      "opciones": {
+        "a": "Seguirán las reglas propias establecidas para las modificaciones de planeamiento general.",
+        "b": "Seguirán las reglas propias en la figura de planeamiento a que sus determinaciones correspondan por razón de su naturaleza.",
+        "c": "Supondrán una revisión del planeamiento general."
+      }
+    },
+    {
+      "id": 56,
+      "enunciado": "Según las Normas Reguladoras de la Comisión de Seguimiento del Plan General de 1997, los acuerdos adoptados por la Comisión:",
+      "opciones": {
+        "a": "Tendrán efectos directos frente a terceros.",
+        "b": "Serán vinculantes para los servicios municipales.",
+        "c": "Las dos respuestas anteriores son correctas."
+      }
+    },
+    {
+      "id": 57,
+      "enunciado": "Según el Plan General de 1997, por razón del planeamiento aplicable, el Suelo Urbano común es aquel que:",
+      "opciones": {
+        "a": "Se desarrolla conforme al planeamiento anterior.",
+        "b": "Se remite a un ulterior planeamiento de desarrollo.",
+        "c": "Se ordena de modo directo y finalista por el Plan General."
+      }
+    },
+    {
+      "id": 58,
+      "enunciado": "Según el Plan General de 1997, el aprovechamiento tipo/unitario en cada uno de los sectores de suelo urbanizable sectorizado pormenorizado es:",
+      "opciones": {
+        "a": "0,36 m2 edificables de vivienda libre por cada metro cuadrado de suelo.",
+        "b": "0,36 m2 edificables de uso residencial por cada metro cuadrado de suelo.",
+        "c": "0,36 m2 edificables del uso cualificado por cada metro cuadrado de suelo."
+      }
+    },
+    {
+      "id": 59,
+      "enunciado": "Cuál de estos tipos de suelo está contemplado en las Normas Urbanísticas del PGOUM dentro de la categoría de suelo no urbanizable especialmente protegido (NUP).",
+      "opciones": {
+        "a": "Suelo no urbanizable de protección del patrimonio natural.",
+        "b": "Suelo no urbanizable de protección del medio físico.",
+        "c": "Suelo no urbanizable de protección de cauces y riberas"
+      }
+    },
+    {
+      "id": 60,
+      "enunciado": "Señalar cuál de estas condiciones del uso accesorio de vivienda en el suelo no urbanizable común está contemplada en las Normas Urbanísticas del PGOUM:",
+      "opciones": {
+        "a": "La altura máxima de la edificación será de seis y medio (6.50) metros y dos (2) plantas.",
+        "b": "La altura máxima de la edificación será de diez y medio (10.50) metros y tres (3) plantas.",
+        "c": "Las edificaciones se separarán de los linderos una distancia superior a ocho (8) metros."
+      }
+    },
+    {
+      "id": 61,
+      "enunciado": "¿A qué clase de suelo se adscriben los Sistemas Generales en el Plan General de Ordenación Urbana de Madrid?",
+      "opciones": {
+        "a": "El Plan General no adscribe los Sistemas Generales a ninguna clase de suelo.",
+        "b": "El Plan General adscribe los Sistemas Generales siempre, por su propia naturaleza, al Suelo Urbano.",
+        "c": "El Plan General adscribe los sistemas generales a una clase de suelo a los efectos de valoración y obtención."
+      }
+    },
+    {
+      "id": 62,
+      "enunciado": "¿En qué Catálogo de Elementos Protegidos del Plan General de Ordenación Urbana de Madrid está incluida la \"Casa de Campo\"?",
+      "opciones": {
+        "a": "Catálogo de Parques Históricos.",
+        "b": "Catálogo de Espacios Públicos.",
+        "c": "Catálogo de Espacios de Alto Valor Ecológico y Paisajístico."
+      }
+    },
+    {
+      "id": 63,
+      "enunciado": "Según las Normas Urbanísticas del PGOUM, se entiende por alineación oficial, exterior o pública:",
+      "opciones": {
+        "a": "La línea señalada por el planeamiento para establecer el límite que separa los suelos destinados a vía pública o espacios libres públicos, de las parcelas edificables.",
+        "b": "Las líneas perimetrales que delimitan una parcela y la distinguen de sus colindantes.",
+        "c": "Las líneas de separación entre el viario público y las dotaciones."
+      }
+    },
+    {
+      "id": 64,
+      "enunciado": "Las condiciones que se señalan en las Normas Urbanísticas del PGOUM para determinar la edificabilidad son de aplicación para todas las obras de:",
+      "opciones": {
+        "a": "Nueva edificación y reestructuración.",
+        "b": "Solo nueva edificación.",
+        "c": "Nueva edificación, reestructuración y consolidación."
+      }
+    },
+    {
+      "id": 65,
+      "enunciado": "Según el Título 7 \"Régimen de los Usos\", de las Normas Urbanísticas del PGOUM, los usos compatibles, a los efectos de pormenorización en el espacio, se subdividen en:",
+      "opciones": {
+        "a": "Asociados y complementarios.",
+        "b": "Asociados, complementarios y autorizables.",
+        "c": "Asociados, complementarios y alternativos"
+      }
+    },
+    {
+      "id": 66,
+      "enunciado": "La clasificación de los usos según su consideración en el cálculo del aprovechamiento tipo, según las Normas Urbanísticas del PGOUM, es la siguiente:",
+      "opciones": {
+        "a": "Uso cualificado característico, uso cualificado no característico y uso no cualificado.",
+        "b": "Uso cualificado característico y uso no cualificado.",
+        "c": "Uso compatible y uso autorizable."
+      }
+    },
+    {
+      "id": 67,
+      "enunciado": "Según las Normas Urbanísticas del PGOUM, todas las viviendas reunirán la condición de exterior, para lo cual deberán cumplir con las condiciones higiénicas y de seguridad siguientes:",
+      "opciones": {
+        "a": "Ocupar una fachada en una longitud superior a tres (3) metros, en la que exista al menos un hueco de una pieza habitable.",
+        "b": "Ocupar una fachada en una longitud superior a cinco (5) metros, en la que exista al menos un hueco de una pieza habitable.",
+        "c": "Ocupar una fachada en una longitud superior a diez (10) metros, en la que exista al menos un hueco de una pieza habitable."
+      }
+    },
+    {
+      "id": 68,
+      "enunciado": "En función de su naturaleza, según las Normas Urbanísticas del PGOUM, se distinguen las siguientes clases de uso industrial:",
+      "opciones": {
+        "a": "Industria en general, almacenaje y servicios empresariales.",
+        "b": "Industria en general y almacenaje.",
+        "c": "Taller doméstico y almacenaje."
+      }
+    },
+    {
+      "id": 69,
+      "enunciado": "Cuál es la superficie mínima de parcela para uso cualificado establecida en la norma zonal 4: Edificción en Manzana Cerrada de las NN.UU. del Plan General de Ordenación Urbana de Madrid?",
+      "opciones": {
+        "a": "Noventa (90) metros cuadrados.",
+        "b": "Aquella capaz de acoger una vivienda que cumpla el resto de condiciones particulares y la superficie mínima de vivienda establecidas.",
+        "c": "No se fija una superficie mínima en la norma zonal."
+      }
+    },
+    {
+      "id": 70,
+      "enunciado": "¿A qué nivel de protección de los edificios pertenece el grado denominado \"Volumétrico\" en las NN.UU. del PGOUM?",
+      "opciones": {
+        "a": "Al nivel 1.",
+        "b": "Al nivel 2.",
+        "c": "Al nivel 3."
+      }
+    },
+    {
+      "id": 71,
+      "enunciado": "Según el Plan General de Ordenación Urbana de Madrid, las parcelaciones dentro del área de aplicación de la Norma Zonal 1:",
+      "opciones": {
+        "a": "Están permitidas en el área regulada por el grado 6 siempre que se respete una parcela mínima de 375m2 y 15 m. de longitud de su lindero de fachada.",
+        "b": "Solo se permiten en las parcelas no catalogadas y dentro del mismo grado.",
+        "c": "Están permitidas en el área regulada por los grados 1 y 2 siempre que se respete una parcela mínima de 300m2 y 15 m. de longitud de su lindero de fachada."
+      }
+    },
+    {
+      "id": 72,
+      "enunciado": "según la norma zonal 6:",
+      "opciones": {
+        "a": "Las plantas bajo rasante podrán ocupar la totalidad de la parcela excepto en la zona de separaciones mínimas a linderos donde está prohibida la edificación bajo y sobre rasante.",
+        "b": "En los patios de manzana definidos en el Plano de Alineaciones y Condiciones de la Edificación del APE no se permite construcción alguna a excepción de aquellas que, sin constituir un volumen edificado, estén ligadas a zonas ajardinadas, usos deportivos o de esparcimiento.",
+        "c": "Las superficies de los patios de manzana, correspondientes a diferentes parcelas, podrán separarse con cerramientos macizos de fabrica o similar con altura inferior dos (2) metros."
+      }
+    },
+    {
+      "id": 73,
+      "enunciado": "Según la Ley 3/2013, de 18 de junio de Patrimonio Histórico de la Comunidad de Madrid, el expediente para la declaración de Bien de Interés Cultural se incoará:",
+      "opciones": {
+        "a": "De oficio",
+        "b": "A instancia de parte o de oficio",
+        "c": "Según determine el Consejo de Gobierno de la Comunidad Autónoma"
+      }
+    },
+    {
+      "id": 74,
+      "enunciado": "Según la Ley 3/2013, de 18 de junio de Patrimonio Histórico de la Comunidad de Madrid, desde la entrada en vigor de esta Ley, los Ayuntamientos deberán completar o formar sus Catálogos de protección de bienes y espacios protegidos en el plazo máximo de:",
+      "opciones": {
+        "a": "2 años",
+        "b": "1 año",
+        "c": "5 años"
+      }
+    },
+    {
+      "id": 75,
+      "enunciado": "Según la Ordenanza Municipal de Tramitación de Licencias Urbanísticas, las visitas preceptivas de los servicios municipales a las obras de nueva edificación y reestructuración total, para la obtención de la licencia de primera ocupación y funcionamiento, serán las correspondientes a los estados de:",
+      "opciones": {
+        "a": "Replanteo, terminación de estructura y finalización de la obra.",
+        "b": "Replanteo y finalización de la obra.",
+        "c": "Terminación de estructura y finalización de la obra."
+      }
+    },
+    {
+      "id": 76,
+      "enunciado": "Según la Ordenanza para la Apertura de Actividades Económicas de la Ciudad de Madrid, conjuntamente con la solicitud de licencia podrá presentarse declaración responsable para la ejecución de las obras:",
+      "opciones": {
+        "a": "Aquéllas que por su escasa entidad no requieren proyecto técnico de obras.",
+        "b": "Aquéllas que incluidas en el proyecto técnico sean de preparación del terreno, vaciado del solar o ejecución de muros de contención.",
+        "c": "Las dos respuestas anteriores son correctas."
+      }
+    },
+    {
+      "id": 77,
+      "enunciado": "Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el replanteo del proyecto de obras tendrá lugar:",
+      "opciones": {
+        "a": "Dentro del mes siguiente a la fecha de formalización del contrato de obras.",
+        "b": "Previamente a la supervisión del proyecto, en el caso de que ésta sea preceptiva.",
+        "c": "Aprobado el proyecto y previamente a la aprobación del expediente de contratación de la obra."
+      }
+    },
+    {
+      "id": 78,
+      "enunciado": "Según la Ordenanza de Conservación, Rehabilitación y Estado Ruinoso de las Edificaciones, en caso de incumplimiento de lo ordenando mediante orden de ejecución de obras, podrá procederse a su ejecución subsidiaria bajo la dirección de:",
+      "opciones": {
+        "a": "Técnicos de la Propiedad.",
+        "b": "Técnicos municipales.",
+        "c": "Técnicos de entidades de inspección técnica homologadas."
+      }
+    },
+    {
+      "id": 79,
+      "enunciado": "Según los tratados y publicaciones de patología de la construcción, en un elemento estructural vertical, la deformación provocada por una carga excéntrica aplicada o por la excesiva esbeltez del elemento; a este fenómeno se lo denomina:",
+      "opciones": {
+        "a": "Pandeo.",
+        "b": "Desplome.",
+        "c": "Abatimiento."
+      }
+    },
+    {
+      "id": 80,
+      "enunciado": "El director de obra tiene como obligación:",
+      "opciones": {
+        "a": "Elaborar, a requerimiento del promotor o con su conformidad, eventuales modificaciones del proyecto, que vengan exigidas por la marcha de la obra siempre que las mismas se adapten a las disposiciones normativas contempladas y observadas en la redacción del proyecto.",
+        "b": "Facilitar, cuando proceda, las instrucciones de uso y mantenimiento de los productos suministrados, así como las garantías de calidad correspondientes, para su inclusión en la documentación de la obra ejecutada.",
+        "c": "Asignar a la obra los medios humanos y materiales que su importancia requiera."
+      }
+    },
+    {
+      "id": 81,
+      "enunciado": "El Código Técnico de la Edificación establece que el edificio debe conservarse en buen estado mediante un adecuado mantenimiento. Esto supondrá:",
+      "opciones": {
+        "a": "Documentar durante los primeros 10 años de vida útil las intervenciones, ya sean de reparación, reforma o rehabilitación. Transcurrido este plazo se ejecutará el Programa Anual de Mantenimiento y Conservación y se realizarán las inspecciones reglamentarias que se consignarán en el Libro del Edificio.",
+        "b": "Llevar a cabo el plan de mantenimiento del edificio, encargando al técnico competente las operaciones programadas para el mantenimiento del mismo y de sus instalaciones.",
+        "c": "Consignar en el Libro del Edificio las intervenciones de reparación, reforma o rehabilitación durante los primeros 10 años de vida útil. Transcurrido este plazo únicamente se consignarán en el Libro del Edificio las intervenciones de reparación que afecten a la estructura del edificio a efectos de mantenimiento."
+      }
+    },
+    {
+      "id": 82,
+      "enunciado": "Un sector bajo rasante, en el ámbito de seguridad en caso de incendio es:",
+      "opciones": {
+        "a": "Un sector de incendio en el que los recorridos de evacuación de alguna de sus zonas deben salvar necesariamente una altura de evacuación ascendente igual o mayor que 1,5 m.",
+        "b": "Un sector de riesgo mínimo siempre y cuando los recorridos de evacuación presenten una distancia máxima de 25 m hasta su salida más próxima, cuando está destinado exclusivamente a la circulación.",
+        "c": "Un local de riesgo especial en el que los recorridos de evacuación tendrán una distancia máxima de 25 m hasta su salida más próxima."
+      }
+    },
+    {
+      "id": 83,
+      "enunciado": "El Real Decreto 2267/2004, de 3 de diciembre, por el que se aprueba el Reglamento de seguridad contra incendios en los establecimientos industriales, indica que el titular de un establecimiento industrial deberá comunicar al órgano competente de la comunidad autónoma, en el plazo máximo de 15 días, cualquier incendio que se produzca en el establecimiento industrial en el que concurra, al menos, una de las siguientes circunstancias",
+      "opciones": {
+        "a": "En las instalaciones nucleares, radiactivas o de extracción de minerales contempladas en este Real Decreto, cuando ocasione una paralización parcial superior a 7 días de su actividad industrial.",
+        "b": "Que se produzcan daños personales que requieran atención médica externa.",
+        "c": "Siempre que se trate de un establecimiento de riesgo intrínseco medio o alto y existan daños materiales cuantificados en más de 12.000 euros."
+      }
+    },
+    {
+      "id": 84,
+      "enunciado": "La profundidad del vaso en piscinas cumplirá con las siguientes consideraciones:",
+      "opciones": {
+        "a": "Las piscinas infantiles contarán con zonas cuya profundidad sea menor que 50 cm, con una rampa de inclinación menor del 10 % hasta alcanzar una profundidad máxima de 1,40 m.",
+        "b": "En piscinas infantiles será 50 cm, como máximo. En el resto de piscinas la profundidad será de 3 m, como máximo, y contarán con zonas cuya profundidad será menor que 1,40 m.",
+        "c": "En piscinas infantiles será 1,40 m, como máximo. En el resto de piscinas la profundidad será de 5 m, como máximo, y se señalizará el valor de la máxima y la mínima profundidad en sus puntos correspondientes mediante rótulos al menos en las paredes del vaso y en el andén."
+      }
+    },
+    {
+      "id": 85,
+      "enunciado": "La exigencia básica SUA 8: Seguridad frente al riesgo causado por la acción del rayo indica que:",
+      "opciones": {
+        "a": "Se limitará el riesgo de electrocución y de incendio causado por la acción del rayo, mediante instalaciones adecuadas de protección contra el rayo.",
+        "b": "En edificios de pública concurrencia, de uso Administrativo y Sanitario es obligatoria la instalación de puntas Franklin y una red de tierra aislada conectada directamente al terreno.",
+        "c": "Los sistemas de protección contra el rayo son obligatorios en edificios de más de 30 metros de altura y en todo caso en edificios de uso Administrativo y Sanitario cuando sean de pública concurrencia."
+      }
+    },
+    {
+      "id": 86,
+      "enunciado": "A los efectos de la supresión de Barreras Arquitectónicas en la Edificación se considerará un espacio, una instalación o un servicio adaptable, en función de su accesibilidad para personas en situación de limitación o con movilidad reducida, cuando:",
+      "opciones": {
+        "a": "No impida su utilización de forma autónoma a las personas en situación de limitación o con movilidad reducida.",
+        "b": "Se ajusta a todos los requisitos funcionales y dimensiones que garantizan su utilización, de forma autónoma y con comodidad, por parte de las personas en situación de limitación o con movilidad reducida.",
+        "c": "Es practicable y además su área de acceso es de 0,90 m de ancho y 2,10 m de altura como mínimo."
+      }
+    },
+    {
+      "id": 87,
+      "enunciado": "Los itinerarios peatonales deberán diseñarse y construirse con la graduación denominada adaptado, salvo:",
+      "opciones": {
+        "a": "Los itinerarios peatonales en áreas consolidadas y restringidas, que tendrán, como mínimo, la graduación denominada adaptable.",
+        "b": "Los itinerarios peatonales en áreas histórico-artísticas, que podrán utilizar soluciones diferentes a las normalizadas siempre que resulten practicables a cualquier persona.",
+        "c": "Los itinerarios peatonales en áreas restringidas por motivos seguridad, militares o de fuerzas y cuerpos de seguridad, que tendrán, como mínimo, la graduación denominada adaptable."
+      }
+    },
+    {
+      "id": 88,
+      "enunciado": "Uno de los ensayos in situ que pueden utilizarse para determinar la Presión Límite y la deformabilidad de suelos granulares es el ensayo presiométrico. Este ensayo debe realizarse en:",
+      "opciones": {
+        "a": "Superficie del plano de cimentación.",
+        "b": "Sondeo.",
+        "c": "Pozo."
+      }
+    },
+    {
+      "id": 89,
+      "enunciado": "En cimentación profunda para un grupo de pilotes formado por 4 o más de 4 pilotes del mismo diámetro, se debe considerar que la proximidad entre los pilotes se traduce en una interacción entre ellos, de tal forma que, si el grupo tiene \"n\" pilotes y siendo la carga de hundimiento del pilote aislado Rck, la carga que produce el hundimiento del grupo, Rckg cumple que:",
+      "opciones": {
+        "a": "Para separaciones de 1 diámetro entre ejes de pilotes será: Rckg = 1,3·n· Rck.",
+        "b": "Para separaciones de 1 diámetro entre ejes de pilotes será: Rckg = 0,7·n· Rck.",
+        "c": "Para separaciones de 3 diámetros entre ejes de pilotes será: Rckg = 1,3·n· Rck."
+      }
+    },
+    {
+      "id": 90,
+      "enunciado": "El ensayo Proctor, es un ensayo que típicamente se emplea en:",
+      "opciones": {
+        "a": "El control de ejecución de escolleras o en rellenos que contengan una proporción alta de tamaños gruesos para asegurar que el material presenta una densidad relativa que impida disminuciones volumétricas por debajo de lo especificado en el Pliego de Condiciones de proyecto, que puedan dar lugar a asientos.",
+        "b": "El control de rellenos granulares para asegurar que el material, su contenido de humedad en la colocación y su grado final de compacidad obedece a lo especificado en el Pliego de Condiciones de proyecto",
+        "c": "El control de puesta en obra \"in situ\" de arcillas o limos con el objeto de comprobar que los valores de humedad óptima, densidad máxima del relleno y cohesión obedecen a lo especificado en el Pliego de Condiciones de proyecto."
+      }
+    },
+    {
+      "id": 91,
+      "enunciado": "En el análisis de la estabilidad del fondo de una excavación realizada con pantallas perimetrales es necesario tener en cuenta que:",
+      "opciones": {
+        "a": "Si la excavación se hace en un terreno saturado y por debajo del nivel freático, la seguridad frente al sifonamiento se estudiará mayorando el gradiente crítico del terreno, icr, por un factor, γM = 2. De tal forma ir ≤ icr·γM, siendo ir el gradiente real en sentido vertical, en un determinado punto; icr el gradiente que anula la tensión efectiva vertical en dicho punto.",
+        "b": "Cuando se trate de excavaciones, superiores a 6m deberá comprobarse la seguridad respecto a un hundimiento del fondo de la excavación por agotamiento de la resistencia a esfuerzo cortante por efecto de las presiones verticales del terreno.",
+        "c": "En suelos muy preconsolidados, la tensión efectiva horizontal bajo el fondo de la excavación se reduce en menor proporción que la vertical pudiendo alcanzarse estados de plastificación."
+      }
+    },
+    {
+      "id": 92,
+      "enunciado": "La longitud de apoyo de una carga concentrada sobre un muro debe ser al menos:",
+      "opciones": {
+        "a": "igual al canto de la pieza apoyada.",
+        "b": "La mitad de la longitud de la pieza que conforma la fábrica.",
+        "c": "100 mm."
+      }
+    },
+    {
+      "id": 93,
+      "enunciado": "Según EHE-08, el porcentaje máximo (en peso de la muestra total de árido, grueso o fino) de finos que puede pasar por el tamiz mínimo, para todo tipo de áridos, para formar hormigón estructural, no debe superar:",
+      "opciones": {
+        "a": "El 1%",
+        "b": "El 16%",
+        "c": "El 2,5%"
+      }
+    },
+    {
+      "id": 94,
+      "enunciado": "Según DB SE-A, el área neta de una sección de un perfil de acero resulta de:",
+      "opciones": {
+        "a": "Restar al área nominal el espesor del recubrimiento que, en su caso, tenga el perfil.",
+        "b": "El área neta coincide siempre con el área nominal.",
+        "c": "Restar al área nominal los agujeros y rebajes."
+      }
+    },
+    {
+      "id": 95,
+      "enunciado": "Según el Código Técnico de la Edificación (CTE), cuando en una cubierta se disponga de capa de impermeabilización de tipo bituminoso, se deberán utilizar sistemas de fijación mecánica si la pendiente de la cubierta es superior al:",
+      "opciones": {
+        "a": "10%",
+        "b": "15%",
+        "c": "20%"
+      }
+    },
+    {
+      "id": 96,
+      "enunciado": "Según el Código Técnico de la Edificación (CTE), en el encuentro de una cubierta con un paramento vertical, la impermeabilización debe prolongarse por el paramento sobre la protección hasta una altura mínima de:",
+      "opciones": {
+        "a": "15 cm",
+        "b": "20 cm",
+        "c": "30 cm"
+      }
+    },
+    {
+      "id": 97,
+      "enunciado": "Según el Código Técnico de la Edificación (CTE), en una fachada con cámara de aire sin ventilar con aislante no hidrófilo en el interior de la hoja principal y dispuesta la cámara por el lado exterior del aislante, se considera que ésta presenta un grado de resistencia a la filtración:",
+      "opciones": {
+        "a": "media",
+        "b": "alta",
+        "c": "muy alta"
+      }
+    },
+    {
+      "id": 98,
+      "enunciado": "Según el Código Técnico de la Edificación (CTE) los vierteaguas de huecos en fachadas deben tener una pendiente hacia el exterior de al menos:",
+      "opciones": {
+        "a": "10º",
+        "b": "15º",
+        "c": "12º"
+      }
+    },
+    {
+      "id": 99,
+      "enunciado": "Según el Código Técnico de la Edificación (CTE), en la red de suministro de agua de un edificio deberá disponerse de sistema anti-retorno que evite la inversión del flujo:",
+      "opciones": {
+        "a": "antes de los contadores",
+        "b": "después del equipo de tratamiento de agua",
+        "c": "en la base de las ascendentes"
+      }
+    },
+    {
+      "id": 100,
+      "enunciado": "Según el Código Técnico de la Edificación (CTE), la acometida de bajantes a la red horizontal de colectores enterrados se hará con interposición de arqueta a pie de bajante que:",
+      "opciones": {
+        "a": "deberá ser sifónica",
+        "b": "no deberá ser sifónica",
+        "c": "deberá ser registrable"
+      }
+    },
+    {
+      "id": 101,
+      "enunciado": "Según el Reglamento de Instalaciones Térmicas de los Edificios, se considerarán como instalaciones térmicas las instalaciones fijas de:",
+      "opciones": {
+        "a": "Producción de calor y frío.",
+        "b": "Calefacción, refrigeración y ventilación.",
+        "c": "Climatización y agua caliente sanitaria."
+      }
+    },
+    {
+      "id": 102,
+      "enunciado": "Según el Código Técnico de la Edificación (CTE), la demanda energética para un edificio se expresa en:",
+      "opciones": {
+        "a": "kW.h/m2.año, considerada la superficie útil de los espacios habitables del edificio",
+        "b": "kW.h/m2.año, considerada la superficie construida total del edificio",
+        "c": "kW.h ºC/m2.año"
+      }
+    },
+    {
+      "id": 103,
+      "enunciado": "Según el Código Técnico de la Edificación (CTE), la sección relativa a la exigencia de eficiencia energética de las instalaciones de iluminación es de aplicación a:",
+      "opciones": {
+        "a": "intervenciones en edificios existentes con superficie útil total final superior a 500 m2, donde se renueve más del 25% de la superficie iluminada",
+        "b": "cambios de uso característico del edificio",
+        "c": "construcciones provisionales para uso con un plazo estimado superior a 1 año"
+      }
+    },
+    {
+      "id": 104,
+      "enunciado": "Según el Reglamento Electrotécnico de Baja Tensión, la parte de la instalación de la red de distribución que alimenta la caja o cajas generales de protección o unidad funcional equivalente se denomina:",
+      "opciones": {
+        "a": "Línea general de alimentación.",
+        "b": "Acometida.",
+        "c": "Instalación de enlace."
+      }
+    },
+    {
+      "id": 105,
+      "enunciado": "El promotor estará obligado a que en la fase de redacción del proyecto se elabore un estudio de seguridad y salud en los proyectos de obras en que se den alguno de los supuestos siguientes:",
+      "opciones": {
+        "a": "En obras de titularidad pública, túneles, galerías y presas, independientemente de su presupuesto de ejecución por contrata.",
+        "b": "Que la duración estimada sea superior a 22 días laborables, empleándose en algún momento a más de 10 trabajadores simultáneamente.",
+        "c": "Que el volumen de mano de obra estimada, entendiendo por tal la suma de los días de trabajo del total de los trabajadores en la obra, sea superior a 500."
+      }
+    },
+    {
+      "id": 106,
+      "enunciado": "Quedan facultados para disponer la paralización de los tajos o, en su caso, de la totalidad de una obra, cuando observasen incumplimiento de las medidas de seguridad y salud en circunstancias de riesgo grave e inminente para la seguridad y la salud de los trabajadores, los siguientes:",
+      "opciones": {
+        "a": "El director de obra, el jefe de obra, el coordinador en materia de seguridad y salud y en el caso de contratos de las administraciones públicas también el Inspector de Trabajo y Seguridad Social en el ejercicio de sus funciones.",
+        "b": "Únicamente el director de obra, previa comunicación del coordinador en materia de seguridad y salud, dejando constancia de tal incumplimiento en el Libro de Incidencias una vez advertido el contratista.",
+        "c": "El coordinador en materia de seguridad y salud durante la ejecución de la obra o cualquier otra persona integrada en la dirección facultativa."
+      }
+    },
+    {
+      "id": 107,
+      "enunciado": "En el ámbito del coste de la gestión de residuos:",
+      "opciones": {
+        "a": "En general, de acuerdo con el principio de quien contamina paga, los costes relativos a la gestión de los residuos tendrán que correr a cargo del productor inicial de residuos, del poseedor actual o del anterior poseedor de residuos.",
+        "b": "La declaración de un suelo como contaminado obliga a la Comunidad de Madrid a realizar las operaciones de limpieza y recuperación que se establezcan en el proyecto de descontaminación. La Comunidad de Madrid podrá transferir esa obligación a las entidades municipales cuando se trate de superficies de menos de 1.000 m² o la masa de suelo contaminada no esté en contacto con el nivel freático.",
+        "c": "La entrega de los residuos domésticos para su tratamiento se realizará en los términos que establezca la normativa de la Comunidad de Madrid, que establece el ámbito jurídico de los impuestos y actualiza anualmente el importe de las tasas ambientales de recogida de residuos domésticos."
+      }
+    },
+    {
+      "id": 108,
+      "enunciado": "En una evacuación en caso de incendio:",
+      "opciones": {
+        "a": "Queda terminante prohibido el uso de ascensores por cualquier persona.",
+        "b": "Los edificios podrán disponer de ascensor de emergencia con accesos desde cada planta que posibilitará la evacuación prioritaria de personas con discapacidad motora en función de su uso y altura de evacuación.",
+        "c": "Únicamente para rescate y salvamento de personas con discapacidad motora estas podrán utilizar cualquier ascensor del edificio que se encuentre en el recorrido de evacuación, siempre y cuando el ascensor disponga de un sistema eléctrico de alimentación ininterrumpida (SAI) que garantice su funcionamiento autónomo."
+      }
+    },
+    {
+      "id": 109,
+      "enunciado": "Los semáforos peatonales:",
+      "opciones": {
+        "a": "En los casos en los que la muy alta intensidad de tráfico peatonal lo aconseje, los semáforos deberán de poder ser activados a solicitud del usuario mediante pulsadores que serán fácilmente localizables, sin obstáculos que dificulten la aproximación a los mismos y a una altura adecuada",
+        "b": "El tiempo de paso será el suficiente para garantizar el cruce completo de personas con movilidad reducida.",
+        "c": "El tiempo de paso mínimo para garantizar el cruce completo de personas con movilidad reducida es de 15 segundos por carril de circulación, excepto en áreas con uso sanitario y hospitalario que es de 30 segundos por carril de circulación."
+      }
+    },
+    {
+      "id": 110,
+      "enunciado": "En un itinerario peatonal accesible se consideran rampas los planos inclinados destinados a salvar inclinaciones superiores al 6% o desniveles superiores a 20 cm y que cumplan:",
+      "opciones": {
+        "a": "Los tramos de las rampas tendrán una anchura mínima libre de paso de 1,20 m y una longitud máxima de 15 m.",
+        "b": "La pendiente longitudinal máxima será del 10% para tramos de hasta 3 m de longitud y del 8% para tramos de hasta 10 m de longitud.",
+        "c": "La pendiente transversal máxima será del 0,5 %."
+      }
+    },
+    {
+      "id": 111,
+      "enunciado": "Se consideran elementos de protección al peatón",
+      "opciones": {
+        "a": "Las barandillas, las marquesinas, los bolardos y el pavimento táctil indicador.",
+        "b": "Las barandillas, los pasamanos, las vallas y los zócalos.",
+        "c": "Las barandillas, las vallas, los bolardos y el pavimento táctil indicador."
+      }
+    },
+    {
+      "id": 112,
+      "enunciado": "La Instrucción para el Diseño de la Vía Pública, del Ayuntamiento de Madrid, establece como anchura mínima de carril en vías metropolitanas:",
+      "opciones": {
+        "a": "3.50 metros.",
+        "b": "3.00 metros.",
+        "c": "2.50 metros."
+      }
+    },
+    {
+      "id": 113,
+      "enunciado": "En la Instrucción para el Diseño de la Vía Pública, del Ayuntamiento de Madrid, se recomienda que, para favorecer el soleamiento invernal, las plazas se orientarán preferentemente de forma que su eje mayor coincida con la orientación:",
+      "opciones": {
+        "a": "NE-SO",
+        "b": "N-S",
+        "c": "E-O"
+      }
+    },
+    {
+      "id": 114,
+      "enunciado": "Entre los objetivos operativos del Plan de Calidad del Paisaje Urbano de la Ciudad de Madrid se encuentran:",
+      "opciones": {
+        "a": "Aplicar el Convenio Europeo del Paisaje: gestión, protección y ordenación del paisaje.",
+        "b": "Redactar una Instrucción para el diseño de la vía pública.",
+        "c": "La normalización de elementos constructivos para obras de urbanización."
+      }
+    },
+    {
+      "id": 115,
+      "enunciado": "Según la actual Ordenanza de Terrazas y Quioscos de Hostelería y Restauración, cuál sería la superficie máxima admisible de un Quiosco, sin contabilizar a estos efectos el espacio destinado a servicios higiénicos:",
+      "opciones": {
+        "a": "Diez metros cuadrados.",
+        "b": "Doce metros cuadrados.",
+        "c": "Quince metros cuadrados."
+      }
+    },
+    {
+      "id": 116,
+      "enunciado": "De acuerdo con la normativa vigente respecto a iluminación y señalización accesibles aplicable a espacios exteriores públicos cual es el límite admisible del rango de diferencia de iluminación entre espacios adyacentes del ámbito urbano:",
+      "opciones": {
+        "a": "200 lux.",
+        "b": "300 lux",
+        "c": "100 lux"
+      }
+    },
+    {
+      "id": 117,
+      "enunciado": "De acuerdo con la normativa vigente de accesibilidad aplicable a espacios exteriores públicos, a qué tipo de graduación de itinerario peatonal corresponden las dimensiones mínimas de banda libre de paso de Alto 2,20 m y Ancho 1,20 m.",
+      "opciones": {
+        "a": "Itinerario peatonal Accesible.",
+        "b": "Itinerario peatonal Adaptado.",
+        "c": "Itinerario peatonal Practicable."
+      }
+    },
+    {
+      "id": 118,
+      "enunciado": "Según la normativa de Vivienda con Protección Pública aplicable en la Comunidad de Madrid, se califica como tal aquella que cumpla los siguientes requisitos de superficie:",
+      "opciones": {
+        "a": "Superficie construida máxima de 150 metros cuadrados y 80 metros cuadrados para arrendamiento con opción de compra para jóvenes.",
+        "b": "Superficie útil máxima de 90 metros cuadrados y 50 metros cuadrados para arrendamiento con opción de compra para jóvenes.",
+        "c": "Superficie construida máxima de 120 metros cuadrados y 60 metros cuadrados para arrendamiento con opción de compra para jóvenes."
+      }
+    },
+    {
+      "id": 119,
+      "enunciado": "Según el Plan Estatal de Vivienda 2018-2021, resultarán subvencionables las actuaciones que se enmarquen en alguno de los programas siguientes:",
+      "opciones": {
+        "a": "Fomento de mejora de la eficiencia energética y sostenibilidad en viviendas.",
+        "b": "Fomento de la regeneración y renovación urbana y rural.",
+        "c": "Las dos respuestas anteriores son correctas."
+      }
+    },
+    {
+      "id": 120,
+      "enunciado": "En la Segunda Parte del Pliego de Condiciones Técnicas Generales del Ayuntamiento de Madrid se contienen:",
+      "opciones": {
+        "a": "las condiciones de carácter general técnicas y técnico-administrativas que regulan las relaciones del Ayuntamiento de Madrid y el contratista",
+        "b": "las condiciones técnicas que deben cumplir los materiales de construcción",
+        "c": "las condiciones que deben cumplir las unidades de obra básicas"
+      }
+    }
+  ]
+}
