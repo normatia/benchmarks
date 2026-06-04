@@ -17,13 +17,13 @@ benchmark/
 ├── scripts/                  
 │   └── generar_informe.js    # Script de evaluación oficial
 └── exams/                    
-    ├── arq-tec-madrid-2017/  # Exámenes organizados por año y municipio
+    ├── arq-tec-madrid_febrero-2019/  # Exámenes organizados por año y municipio
     │   ├── raw/              # PDFs originales del examen y plantilla oficial
     │   ├── dataset/          # Examen y plantilla en formato JSON (_test.json, _resultados.json)
     │   ├── llm_outputs/      # Respuestas crudas en JSON dadas por cada IA
     │   └── informe_aciertos.md # Informe autogenerado
-    ├── arq-sup-madrid-2019/
-    └── arq-tec-madrid-2025/
+    ├── arq-sup-madrid_julio-2018/
+    └── arq-tec-madrid_julio-2025/
 ```
 
 ## Cómo reproducir los resultados
